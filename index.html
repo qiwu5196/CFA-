@@ -3,52 +3,67 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>单词卡</title>
+  <title>CFA 单词卡</title>
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
   <header>
-    <div class="title">单词卡</div>
+    <div class="title">CFA 单词卡</div>
   </header>
 
-  <main class="wrap">
-    <!-- 左栏：所有单词 -->
-    <section class="col left" aria-label="单词列表">
-      <div class="toolbar">
-        <div class="seg">
-          <button class="seg-btn is-active" id="tabAll" type="button">全部</button>
-          <button class="seg-btn" id="tabFav" type="button">收藏</button>
+  <main class="page">
+    <section class="panel panel-main" aria-label="单词卡学习区">
+      <div class="toolbar toolbar-top">
+        <div class="seg seg-views" aria-label="视图切换">
+          <button class="seg-btn is-active" id="viewCard" type="button">单词卡</button>
+          <button class="seg-btn" id="viewList" type="button">单词列表</button>
+          <button class="seg-btn" id="viewFav" type="button">单词收藏</button>
         </div>
 
         <div class="search" role="search">
           <span class="icon">🔎</span>
           <input id="q" placeholder="搜索：英文 / 中文 / 注释" autocomplete="off" />
         </div>
-
-        <button class="btn" id="shuffleBtn" title="随机一张" type="button">随机</button>
       </div>
 
-      <div class="list" id="list"></div>
+      <section class="view is-active" id="cardView" aria-label="单词卡视图">
+        <div class="card-area">
+          <div class="hint">卡片正面只有单词；点击翻面看注释</div>
+
+          <div class="card" id="card" title="点击翻面">
+            <div class="card-inner" id="cardInner"></div>
+          </div>
+
+          <div class="actions">
+            <button class="btn" id="shuffleBtn" title="随机一张" type="button">随机</button>
+            <button class="btn" id="nextBtn" type="button">下一张</button>
+            <button class="btn" id="favBtn" type="button">收藏</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="view" id="listView" aria-label="单词列表视图">
+        <div class="list-wrap">
+          <div class="subhead">
+            <div><span class="badge" id="countBadge">0</span> 条</div>
+            <div class="hint small">点击任意单词可切回单词卡查看</div>
+          </div>
+          <div class="list" id="list"></div>
+        </div>
+      </section>
+
+      <section class="view" id="favView" aria-label="收藏单词视图">
+        <div class="list-wrap">
+          <div class="subhead">
+            <div><span class="badge" id="favCountBadge">0</span> 条收藏</div>
+            <div class="hint small">点击任意收藏单词可切回单词卡查看</div>
+          </div>
+          <div class="list" id="favList"></div>
+        </div>
+      </section>
 
       <div class="meta">
-        <div><span class="badge" id="countBadge">0</span> 条</div>
         <div class="hint">我所付出的所有努力都要感谢我的灯塔</div>
-      </div>
-    </section>
-
-    <!-- 右栏：随机单词卡 -->
-    <section class="col right" aria-label="随机卡片">
-      <div class="card-area">
-        <div class="hint">卡片正面只有单词；点击翻面看注释</div>
-
-        <div class="card" id="card" title="点击翻面">
-          <div class="card-inner" id="cardInner"></div>
-        </div>
-
-        <div class="actions">
-          <button class="btn" id="nextBtn">下一张随机</button>
-          <button class="btn" id="favBtn">收藏</button>
-        </div>
       </div>
     </section>
   </main>
