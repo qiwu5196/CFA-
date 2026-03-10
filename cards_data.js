@@ -2328,5 +2328,167 @@ window.CARDS = [
     "zh": "时间区间偏差",
     "en_note": "The possibility that when we use a time-series sample, our statistical conclusion may be sensitive to the starting and ending dates of the sample.",
     "zh_note": "使用时间序列样本时，统计结论可能对样本起止日期敏感所产生的偏差。"
+  },
+  {
+    "word": "accelerated methods",
+    "zh": "加速折旧法",
+    "en_note": "Depreciation methods that allocate a relatively large proportion of the cost of an asset to the early years of the asset’s useful life.",
+    "zh_note": "在资产使用寿命前期分配较多成本的折旧方法。"
+  },
+  {
+    "word": "amortisation",
+    "zh": "摊销",
+    "en_note": "The process of allocating the cost of intangible long-term assets having a finite useful life to accounting periods; the allocation of the amount of a bond premium or discount to the periods remaining until bond maturity.",
+    "zh_note": "将有限使用寿命无形长期资产的成本，或债券溢折价，在相关期间系统分配的过程。"
+  },
+  {
+    "word": "available-for-sale",
+    "zh": "可供出售",
+    "en_note": "Under US GAAP, debt securities not classified as either held-to-maturity or held-for-trading securities. The investor is willing to sell but not actively planning to sell. In general, available-for-sale debt securities are reported at fair value on the balance sheet, with unrealized gains included as a component of other comprehensive income.",
+    "zh_note": "在美国GAAP下，不属于持有至到期或交易性类别的债务证券；通常按公允价值计量，未实现损益计入其他综合收益。"
+  },
+  {
+    "word": "comprehensive income",
+    "zh": "综合收益",
+    "en_note": "All changes in equity other than contributions by, and distributions to, owners; income under clean surplus accounting; includes all changes in equity during a period except those resulting from investments by owners and distributions to owners. Comprehensive income equals net income plus other comprehensive income.",
+    "zh_note": "除所有者投入和分配外，权益的全部变动；等于净利润加其他综合收益。"
+  },
+  {
+    "word": "depreciation",
+    "zh": "折旧",
+    "en_note": "The process of systematically allocating the cost of long-lived (tangible) assets to the periods during which the assets are expected to provide economic benefits.",
+    "zh_note": "将长期有形资产成本系统分配到其预计带来经济利益各期间的过程。"
+  },
+  {
+    "word": "diminishing balance method",
+    "zh": "余额递减法",
+    "en_note": "An accelerated depreciation method, i.e., one that allocates a relatively large proportion of the cost of an asset to the early years of the asset’s useful life.",
+    "zh_note": "一种加速折旧法，在资产使用寿命前期计提较多折旧。"
+  },
+  {
+    "word": "direct write-off method",
+    "zh": "直接核销法",
+    "en_note": "An approach to recognizing credit losses on customer receivables in which the company waits until such time as a customer has defaulted and only then recognizes the loss.",
+    "zh_note": "企业在客户实际违约后才确认应收款信用损失的方法。"
+  },
+  {
+    "word": "double declining balance depreciation",
+    "zh": "双倍余额递减折旧法",
+    "en_note": "An accelerated depreciation method that involves depreciating the asset at double the straight-line rate. This rate is multiplied by the book value of the asset at the beginning of the period (a declining balance) to calculate depreciation expense.",
+    "zh_note": "按直线法折旧率两倍乘以期初账面价值计算折旧费用的加速折旧方法。"
+  },
+  {
+    "word": "gains",
+    "zh": "利得",
+    "en_note": "Asset inflows not directly related to the ordinary activities of the business.",
+    "zh_note": "与企业日常经营活动无直接关系的资产流入。"
+  },
+  {
+    "word": "goodwill",
+    "zh": "商誉",
+    "en_note": "An intangible asset that represents the excess of the purchase price of an acquired company over the value of the net identifiable assets acquired.",
+    "zh_note": "收购价格超过被收购方可辨认净资产价值部分形成的无形资产。"
+  },
+  {
+    "word": "gross margin",
+    "zh": "毛利",
+    "en_note": "Sales minus the cost of sales (i.e., the cost of goods sold for a manufacturing company).",
+    "zh_note": "销售收入减去销售成本后的金额。"
+  },
+  {
+    "word": "gross profit",
+    "zh": "毛利润",
+    "en_note": "Sales minus the cost of sales (i.e., the cost of goods sold for a manufacturing company).",
+    "zh_note": "销售收入减去销售成本后的利润。"
+  },
+  {
+    "word": "grouping by function",
+    "zh": "按功能分类",
+    "en_note": "With reference to the presentation of expenses in an income statement, the grouping together of expenses serving the same function, e.g. all items that are costs of goods sold.",
+    "zh_note": "在利润表中按费用所服务的功能进行归类，例如将销售成本项目归为一类。"
+  },
+  {
+    "word": "grouping by nature",
+    "zh": "按性质分类",
+    "en_note": "With reference to the presentation of expenses in an income statement, the grouping together of expenses by similar nature, e.g., all depreciation expenses.",
+    "zh_note": "在利润表中按费用性质相似性进行归类，例如将所有折旧费用归为一类。"
+  },
+  {
+    "word": "intangible assets",
+    "zh": "无形资产",
+    "en_note": "Assets without a physical form, such as patents and trademarks.",
+    "zh_note": "没有实物形态的资产，如专利和商标。"
+  },
+  {
+    "word": "long-lived assets",
+    "zh": "长期资产",
+    "en_note": "Assets that are expected to provide economic benefits over a future period of time, typically greater than one year. Also called long-term assets.",
+    "zh_note": "预计在未来一年以上持续带来经济利益的资产，也称长期资产。"
+  },
+  {
+    "word": "losses",
+    "zh": "损失",
+    "en_note": "Asset outflows not directly related to the ordinary activities of the business.",
+    "zh_note": "与企业日常经营活动无直接关系的资产流出。"
+  },
+  {
+    "word": "multi-step format",
+    "zh": "多步式格式",
+    "en_note": "With respect to the format of the income statement, a format that presents a subtotal for gross profit (revenue minus cost of goods sold).",
+    "zh_note": "利润表的一种列报格式，会单独列示毛利润等中间小计。"
+  },
+  {
+    "word": "net book value",
+    "zh": "账面净值",
+    "en_note": "The remaining (undepreciated) balance of an asset’s purchase cost. For liabilities, the face value of a bond minus any unamortized discount, or plus any unamortized premium.",
+    "zh_note": "资产购置成本扣除累计折旧或摊销后的余额；对负债则为面值调整未摊销溢折价后的金额。"
+  },
+  {
+    "word": "net revenue",
+    "zh": "净收入",
+    "en_note": "Revenue after adjustments (e.g., for estimated returns or for amounts unlikely to be collected).",
+    "zh_note": "经调整后的收入，如扣除预计退货或难以收回金额后的收入。"
+  },
+  {
+    "word": "operating profit",
+    "zh": "营业利润",
+    "en_note": "A company’s profits on its usual business activities before deducting taxes. Also called operating income.",
+    "zh_note": "企业在日常经营活动中获得、扣除税前的利润，也称营业收入利润。"
+  },
+  {
+    "word": "other comprehensive income (OCI)",
+    "zh": "其他综合收益",
+    "en_note": "Changes to equity that bypass (are not reported in) the income statement; the difference between comprehensive income and net income.",
+    "zh_note": "不通过利润表确认而直接计入权益的变动；等于综合收益减去净利润。"
+  },
+  {
+    "word": "sales",
+    "zh": "销售收入",
+    "en_note": "Generally, a synonym for revenue; “sales” is generally understood to refer to the sale of goods, whereas “revenue” is understood to include the sale of goods or services.",
+    "zh_note": "通常是收入的同义词，但更常指商品销售形成的收入。"
+  },
+  {
+    "word": "single-step format",
+    "zh": "单步式格式",
+    "en_note": "With respect to the format of the income statement, a format that does not subtotal for gross profit (revenue minus cost of goods sold).",
+    "zh_note": "利润表的一种列报格式，不单独列示毛利润等中间小计。"
+  },
+  {
+    "word": "straight-line method",
+    "zh": "直线法",
+    "en_note": "A depreciation method that allocates evenly the cost of a long-lived asset less its estimated residual value over the estimated useful life of the asset.",
+    "zh_note": "将长期资产成本扣除预计残值后，在预计使用寿命内平均分配的折旧方法。"
+  },
+  {
+    "word": "total comprehensive income",
+    "zh": "综合收益总额",
+    "en_note": "The change in equity during a period resulting from transaction and other events, other than those changes resulting from transactions with owners in their capacity as owners.",
+    "zh_note": "某一期间内除所有者以其所有者身份交易引起的变动外，权益的全部变动总额。"
+  },
+  {
+    "word": "trading securities",
+    "zh": "交易性证券",
+    "en_note": "Under US GAAP, a category of debt securities held by a company with the intent to trade them. Also called held-for-trading securities.",
+    "zh_note": "在美国GAAP下，企业为交易目的持有的债务证券，也称持有供交易证券。"
   }
 ];
