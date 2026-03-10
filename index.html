@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>单词卡</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header>
+    <div class="title">单词卡</div>
+  </header>
+
+  <main class="wrap">
+    <!-- 左栏：所有单词 -->
+    <section class="col left" aria-label="单词列表">
+      <div class="toolbar">
+        <div class="seg">
+          <button class="seg-btn is-active" id="tabAll" type="button">全部</button>
+          <button class="seg-btn" id="tabFav" type="button">收藏</button>
+        </div>
+
+        <div class="search" role="search">
+          <span class="icon">🔎</span>
+          <input id="q" placeholder="搜索：英文 / 中文 / 注释" autocomplete="off" />
+        </div>
+
+        <button class="btn" id="shuffleBtn" title="随机一张" type="button">随机</button>
+      </div>
+
+      <div class="list" id="list"></div>
+
+      <div class="meta">
+        <div><span class="badge" id="countBadge">0</span> 条</div>
+        <div class="hint">我所付出的所有努力都要感谢我的灯塔</div>
+      </div>
+    </section>
+
+    <!-- 右栏：随机单词卡 -->
+    <section class="col right" aria-label="随机卡片">
+      <div class="card-area">
+        <div class="hint">卡片正面只有单词；点击翻面看注释</div>
+
+        <div class="card" id="card" title="点击翻面">
+          <div class="card-inner" id="cardInner"></div>
+        </div>
+
+        <div class="actions">
+          <button class="btn" id="nextBtn">下一张随机</button>
+          <button class="btn" id="favBtn">收藏</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="./cards_data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
