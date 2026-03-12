@@ -2490,5 +2490,431 @@ window.CARDS = [
     "zh": "交易性证券",
     "en_note": "Under US GAAP, a category of debt securities held by a company with the intent to trade them. Also called held-for-trading securities.",
     "zh_note": "在美国GAAP下，企业为交易目的持有的债务证券，也称持有供交易证券。"
+  },
+  {
+    "word": "alternative hypothesis",
+    "zh": "",
+    "en_note": "The hypothesis that is accepted if the null hypothesis is rejected.",
+    "zh_note": ""
+  },
+  {
+    "word": "confidence level",
+    "zh": "",
+    "en_note": "The complement of the level of significance.",
+    "zh_note": ""
+  },
+  {
+    "word": "critical values",
+    "zh": "",
+    "en_note": "Values of the test statistic at which the decision changes from fail to reject the null hypothesis to reject the null hypothesis.",
+    "zh_note": ""
+  },
+  {
+    "word": "false discovery approach",
+    "zh": "",
+    "en_note": "An adjustment in the p-values for tests performed multiple times.",
+    "zh_note": ""
+  },
+  {
+    "word": "false discovery rate",
+    "zh": "",
+    "en_note": "The rate of Type I errors in testing a null hypothesis multiple times for a given level of significance.",
+    "zh_note": ""
+  },
+  {
+    "word": "hypothesis",
+    "zh": "",
+    "en_note": "A proposed explanation or theory that can be tested.",
+    "zh_note": ""
+  },
+  {
+    "word": "hypothesis testing",
+    "zh": "",
+    "en_note": "The process of testing of hypotheses about one or more populations using statistical inference.",
+    "zh_note": ""
+  },
+  {
+    "word": "level of significance",
+    "zh": "",
+    "en_note": "The probability of a Type I error in testing a hypothesis.",
+    "zh_note": ""
+  },
+  {
+    "word": "multiple testing problem",
+    "zh": "",
+    "en_note": "The risk of getting statistically significant test results when performing a test multiple times.",
+    "zh_note": ""
+  },
+  {
+    "word": "null hypothesis",
+    "zh": "",
+    "en_note": "The hypothesis that is tested.",
+    "zh_note": ""
+  },
+  {
+    "word": "one-sided hypothesis test",
+    "zh": "",
+    "en_note": "A test in which the null hypothesis is rejected only if the evidence indicates that the population parameter is greater than or less than the hypothesized parameter; occurs when the alternative hypothesis is stated either as greater than or less than the hypothesized population parameter.",
+    "zh_note": ""
+  },
+  {
+    "word": "paired comparisons test",
+    "zh": "",
+    "en_note": "See test of the mean of the differences.",
+    "zh_note": ""
+  },
+  {
+    "word": "power of a test",
+    "zh": "",
+    "en_note": "The probability of correctly rejecting the null—that is, rejecting the null hypothesis when it is false.",
+    "zh_note": ""
+  },
+  {
+    "word": "p-value",
+    "zh": "",
+    "en_note": "The smallest level of significance at which the null hypothesis can be rejected.",
+    "zh_note": ""
+  },
+  {
+    "word": "statistically significant",
+    "zh": "",
+    "en_note": "A result indicating that the null hypothesis can be rejected; with reference to an estimated regression coefficient, frequently understood to mean a result indicating that the corresponding population regression coefficient is different from zero.",
+    "zh_note": ""
+  },
+  {
+    "word": "test of the mean of the differences",
+    "zh": "",
+    "en_note": "A statistical test for differences based on paired observations drawn from samples that are dependent on each other.",
+    "zh_note": ""
+  },
+  {
+    "word": "two-sided hypothesis test",
+    "zh": "",
+    "en_note": "A test in which the null hypothesis is rejected in favor of the alternative hypothesis if the evidence indicates that the population parameter is either smaller or larger than a hypothesized value; occurs when the alternative hypothesis is stated as not equal to the hypothesized population parameters.",
+    "zh_note": ""
+  },
+  {
+    "word": "type 1 error",
+    "zh": "",
+    "en_note": "The error of rejecting a true null hypothesis; a false positive.",
+    "zh_note": ""
+  },
+  {
+    "word": "type 2 error",
+    "zh": "",
+    "en_note": "The error of not rejecting a false null hypothesis; false negative.",
+    "zh_note": ""
+  },
+  {
+    "word": "Accounts payable",
+    "zh": "应付账款",
+    "en_note": "Amounts that a business owes to its vendors for goods and services that were purchased from them but which have not yet been paid.",
+    "zh_note": "企业因购买商品或服务而尚未支付给供应商的款项。"
+  },
+  {
+    "word": "Accrued expenses",
+    "zh": "应计费用",
+    "en_note": "Liabilities related to expenses that have been incurred but not yet paid as of the end of an accounting period—an example of an accrued expense is rent that has been incurred but not yet paid, resulting in a liability “rent payable.” Also called accrued liabilities.",
+    "zh_note": "截至会计期末已发生但尚未支付的费用所形成的负债，也称应计负债。"
+  },
+  {
+    "word": "Classified balance sheet",
+    "zh": "分类资产负债表",
+    "en_note": "A balance sheet organized so as to group together the various assets and liabilities into subcategories (e.g., current and noncurrent).",
+    "zh_note": "按流动与非流动等子类别对资产和负债进行分类列示的资产负债表。"
+  },
+  {
+    "word": "Contra account",
+    "zh": "备抵账户",
+    "en_note": "An account that offsets another account.",
+    "zh_note": "用于抵减另一账户余额的账户。"
+  },
+  {
+    "word": "Current assets",
+    "zh": "流动资产",
+    "en_note": "Assets that are expected to be consumed or converted into cash in the near future, typically one year or less. Also called liquid assets.",
+    "zh_note": "预计在近期内（通常一年内）耗用或转换为现金的资产。"
+  },
+  {
+    "word": "Current liabilities",
+    "zh": "流动负债",
+    "en_note": "Short-term obligations, such as accounts payable, wages payable, or accrued liabilities, that are expected to be settled in the near future, typically one year or less.",
+    "zh_note": "预计在近期内（通常一年内）清偿的短期债务。"
+  },
+  {
+    "word": "Deferred income",
+    "zh": "递延收益",
+    "en_note": "A liability account for money that has been collected for goods or services that have not yet been delivered; payment received in advance of providing a good or service.",
+    "zh_note": "因预先收款但尚未交付商品或提供服务而形成的负债。"
+  },
+  {
+    "word": "Deferred revenue",
+    "zh": "递延收入",
+    "en_note": "A liability account for money that has been collected for goods or services that have not yet been delivered; payment received in advance of providing a good or service.",
+    "zh_note": "因预先收款但尚未交付商品或提供服务而形成的负债。"
+  },
+  {
+    "word": "Deferred tax assets",
+    "zh": "递延所得税资产",
+    "en_note": "A balance sheet asset that arises when an excess amount is paid for income taxes relative to accounting profit. The taxable income is higher than accounting profit and income tax payable exceeds tax expense. The company expects to recover the difference during the course of future operations when tax expense exceeds income tax payable.",
+    "zh_note": "因税务口径与会计口径差异导致未来可抵减所得税而确认的资产。"
+  },
+  {
+    "word": "Income tax payable",
+    "zh": "应交所得税",
+    "en_note": "The income tax owed by the company on the basis of taxable income.",
+    "zh_note": "企业按应纳税所得额计算应缴纳的所得税。"
+  },
+  {
+    "word": "Investment property",
+    "zh": "投资性房地产",
+    "en_note": "Property used to earn rental income or capital appreciation (or both).",
+    "zh_note": "为赚取租金、资本增值或两者兼有而持有的房地产。"
+  },
+  {
+    "word": "Liquidity",
+    "zh": "流动性",
+    "en_note": "The extent to which a company is able to meet its short-term obligations using cash flows and those assets that can be readily transformed into cash.",
+    "zh_note": "企业利用现金流和易变现资产履行短期债务的能力。"
+  },
+  {
+    "word": "Non-current assets",
+    "zh": "非流动资产",
+    "en_note": "Assets that are expected to benefit the company over an extended period of time (usually more than one year).",
+    "zh_note": "预计在较长期间内（通常超过一年）为企业带来经济利益的资产。"
+  },
+  {
+    "word": "Non-current liabilities",
+    "zh": "非流动负债",
+    "en_note": "Obligations that broadly represent a probable sacrifice of economic benefits in periods generally greater than one year in the future.",
+    "zh_note": "通常在一年以上期间内需要以经济利益流出偿付的义务。"
+  },
+  {
+    "word": "Owners’ equity",
+    "zh": "所有者权益",
+    "en_note": "The excess of assets over liabilities; the residual interest of shareholders in the assets of an entity after deducting the entity’s liabilities. Also called shareholders’ equity or shareholders’ funds.",
+    "zh_note": "资产扣除负债后的剩余权益，即所有者对企业净资产的权利。"
+  },
+  {
+    "word": "Prepaid expense",
+    "zh": "预付费用",
+    "en_note": "A normal operating expense that has been paid in advance of when it is due.",
+    "zh_note": "在到期前预先支付的正常经营费用。"
+  },
+  {
+    "word": "Property, plant, and equipment",
+    "zh": "不动产、厂房和设备",
+    "en_note": "Tangible assets that are expected to be used for more than one period in either the production or supply of goods or services, or for administrative purposes.",
+    "zh_note": "用于生产、提供商品或服务或行政管理，且使用期超过一个会计期间的有形资产。"
+  },
+  {
+    "word": "Shareholders’ equity",
+    "zh": "股东权益",
+    "en_note": "Assets less liabilities; the residual interest in the assets after subtracting the liabilities.",
+    "zh_note": "资产减去负债后的剩余权益。"
+  },
+  {
+    "word": "Statement of changes in equity",
+    "zh": "权益变动表",
+    "en_note": "(statement of owners’ equity) A financial statement that reconciles the beginning-of-period and end-of-period balance sheet values of shareholders’ equity; provides information about all factors affecting shareholders’ equity. Also called statement of owners’ equity.",
+    "zh_note": "反映期初至期末权益变动及其影响因素的财务报表。"
+  },
+  {
+    "word": "Statement of financial position",
+    "zh": "财务状况表",
+    "en_note": "The financial statement that presents an entity’s current financial position by disclosing resources the entity controls (its assets) and the claims on those resources (its liabilities and equity claims), as of a particular point in time (the date of the balance sheet).",
+    "zh_note": "在特定时点列示企业资产、负债和权益状况的财务报表。"
+  },
+  {
+    "word": "Trade payables",
+    "zh": "应付贸易款",
+    "en_note": "Amounts that a business owes to its vendors for goods and services that were purchased from them but which have not yet been paid.",
+    "zh_note": "企业因采购商品或服务而尚未支付的贸易性应付款项。"
+  },
+  {
+    "word": "Unearned revenue",
+    "zh": "未赚得收入",
+    "en_note": "A liability account for money that has been collected for goods or services that have not yet been delivered; payment received in advance of providing a good or service. Also called deferred revenue or deferred income.",
+    "zh_note": "已收款但尚未交付商品或提供服务而形成的负债，也称递延收入或递延收益。"
+  },
+  {
+    "word": "Working capital",
+    "zh": "营运资本",
+    "en_note": "The difference between current assets and current liabilities.",
+    "zh_note": "流动资产与流动负债之间的差额。"
+  },
+  {
+    "word": "Accredited investors",
+    "zh": "合格投资者",
+    "en_note": "Investors that meet certain minimum regulatory net worth or other requirements in order to invest in certain types of alternative assets.",
+    "zh_note": "满足监管规定的净资产或其他门槛、可投资特定另类资产的投资者。"
+  },
+  {
+    "word": "Carried interest",
+    "zh": "业绩报酬",
+    "en_note": "A performance fee (also referred to as an incentive fee, or carry) that is applied based on excess returns above a hurdle rate.",
+    "zh_note": "超过门槛收益后按超额回报计提的绩效分成。"
+  },
+  {
+    "word": "Catch-up clause",
+    "zh": "追赶条款",
+    "en_note": "A clause in an agreement that favors the GP. For a GP who earns a 20% performance fee, a catch-up clause allows the GP to receive 100% of the distributions above the hurdle rate until she receives 20% of the profits generated, and then every excess dollar is split 80/20 between the LPs and GP.",
+    "zh_note": "有利于普通合伙人的分配条款，使其在门槛收益以上优先获得分配，直至达到约定业绩分成比例。"
+  },
+  {
+    "word": "Clawback",
+    "zh": "追索条款",
+    "en_note": "A requirement that the general partner return any funds distributed as incentive fees until the limited partners have received their initial investment and a percentage of the total profit.",
+    "zh_note": "要求普通合伙人在有限合伙人收回本金及约定收益前返还已分配业绩报酬的条款。"
+  },
+  {
+    "word": "Co-investing",
+    "zh": "共同投资",
+    "en_note": "In co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets. Through co-investing, an investor is able to make an investment alongside a fund when the fund identifies deals.",
+    "zh_note": "投资者通过基金间接投资，同时享有对同一资产直接投资的跟投权。"
+  },
+  {
+    "word": "Committed capital",
+    "zh": "承诺资本",
+    "en_note": "The amount that the limited partners have agreed to provide to the private equity fund.",
+    "zh_note": "有限合伙人承诺向私募股权基金提供的资金总额。"
+  },
+  {
+    "word": "Commodities",
+    "zh": "同质化商品",
+    "en_note": "A product or service from a firm that is indistinguishable from products or services of competing firms, usually conforming to a common standard or grade imposed by convention or regulation.",
+    "zh_note": "与竞争者产品或服务无明显差异、通常符合统一标准或等级的商品或服务。"
+  },
+  {
+    "word": "Concession agreement",
+    "zh": "特许经营协议",
+    "en_note": "A contractual arrangement under which an entity (also known as a grantor) establishes terms and conditions with a developer or operator (referred to as a concessionaire) to plan, build, operate, finance, and maintain an infrastructure asset for a specific period.",
+    "zh_note": "授予方与特许经营方就基础设施在特定期限内的规划、建设、运营、融资和维护所签订的协议。"
+  },
+  {
+    "word": "Digital assets",
+    "zh": "数字资产",
+    "en_note": "The umbrella term covering assets that can be created, stored, and transmitted electronically and have associated ownership or use rights. Digital assets include a variety of assets, such as cryptocurrencies, tokens (security and utility), and digital collectables.",
+    "zh_note": "可电子化创建、存储和传输，并附带所有权或使用权的资产总称，包括加密货币、代币和数字收藏品等。"
+  },
+  {
+    "word": "Direct investing",
+    "zh": "直接投资",
+    "en_note": "Occurs when an investor makes a direct investment in an asset without the use of an intermediary.",
+    "zh_note": "投资者不通过中介，直接对某项资产进行投资。"
+  },
+  {
+    "word": "Fund investing",
+    "zh": "基金投资",
+    "en_note": "In fund investing, the investor invests in assets indirectly by contributing capital to a fund as part of a group of investors. Fund investing is available for all major alternative investment types.",
+    "zh_note": "投资者作为出资人向基金投入资本，从而间接投资于资产。"
+  },
+  {
+    "word": "Fund of funds",
+    "zh": "母基金",
+    "en_note": "Funds that hold a portfolio of hedge funds; also called funds of hedge funds.",
+    "zh_note": "以对冲基金组合为投资对象的基金，也称对冲基金的基金。"
+  },
+  {
+    "word": "Hard hurdle rate",
+    "zh": "硬门槛收益率",
+    "en_note": "Hurdle ratewhere the manager earns fees on annual returns in excess of the hurdle rate",
+    "zh_note": "只有超过门槛收益率的那部分回报才计提业绩报酬。"
+  },
+  {
+    "word": "Hedge funds",
+    "zh": "对冲基金",
+    "en_note": "Private investment vehicles that may invest in public equities or publicly traded fixed-income assets, private capital, and/or real assets, but they are distinguished by their investment approach rather than by the investments themselves.",
+    "zh_note": "可投资于上市证券、私募资本或实物资产的私募投资工具，其特征主要在于投资策略而非投资标的。"
+  },
+  {
+    "word": "High-water mark",
+    "zh": "高水位",
+    "en_note": "The highest value, net of fees, that a fund has reached in history. It reflects the highest cumulative return used to calculate an incentive fee.",
+    "zh_note": "基金历史上扣除费用后的最高净值，用于确定业绩报酬计提基准。"
+  },
+  {
+    "word": "Hurdle rate",
+    "zh": "门槛收益率",
+    "en_note": "Also called “preferred return.” The minimum rate of return on investment that a fund must reach before a GP receives carried interest.",
+    "zh_note": "基金在普通合伙人获得业绩分成前必须达到的最低投资回报率。"
+  },
+  {
+    "word": "Infrastructure",
+    "zh": "基础设施",
+    "en_note": "A type of real asset that is intended for public use and provides essential services. These assets are typically long-lived fixed assets, such as bridges and toll roads.",
+    "zh_note": "面向公共使用并提供基础服务的实物资产，通常为寿命较长的固定资产。"
+  },
+  {
+    "word": "Limited partnership agreement (LPA)",
+    "zh": "有限合伙协议",
+    "en_note": "A legal document that outlines the rules of the partnership and establishes the framework that ultimately guides the fund’s operations throughout its life.",
+    "zh_note": "规定合伙规则并构成基金全生命周期运作框架的法律文件。"
+  },
+  {
+    "word": "Master limited partnership (MLP)",
+    "zh": "主有限合伙",
+    "en_note": "Has similar features to limited partnerships but is usually a more liquid investment that is often publicly traded.",
+    "zh_note": "与有限合伙类似，但通常流动性更高，且多为公开交易。"
+  },
+  {
+    "word": "Performance fee",
+    "zh": "业绩报酬",
+    "en_note": "Fee paid to the general partner from the limited partner(s) based on realized net profits.",
+    "zh_note": "有限合伙人依据已实现净利润向普通合伙人支付的报酬。"
+  },
+  {
+    "word": "Private capital",
+    "zh": "私募资本",
+    "en_note": "Funding provided to companies that is not sourced from the public markets.",
+    "zh_note": "并非来自公开市场、而是向企业提供的资金。"
+  },
+  {
+    "word": "Private debt",
+    "zh": "私募债务",
+    "en_note": "Capital extended to companies through a loan or other form of debt.",
+    "zh_note": "以贷款或其他债务形式向企业提供的资金。"
+  },
+  {
+    "word": "Private equity",
+    "zh": "私募股权",
+    "en_note": "Equity investment capital raised from sources other than public markets and traditional institutions.",
+    "zh_note": "来自公开市场和传统机构之外来源的股权投资资本。"
+  },
+  {
+    "word": "Public–private partnership (PPP)",
+    "zh": "公私合营",
+    "en_note": "An agreement between the public sector and the private sector to finance, build, and operate public infrastructure, such as hospitals and toll roads.",
+    "zh_note": "公共部门与私营部门就公共基础设施的融资、建设和运营达成的合作安排。"
+  },
+  {
+    "word": "Real assets",
+    "zh": "实物资产",
+    "en_note": "Generally, these are tangible physical assets, such as real estate, infrastructure, and natural resources, but they also include such intangibles as patents, intellectual property, and goodwill. Real assets generate current or expected future cash flows and/or are considered a store of value.",
+    "zh_note": "通常指房地产、基础设施、自然资源等有形资产，也可包括专利、知识产权和商誉等，可产生现金流或具有储值功能。"
+  },
+  {
+    "word": "Real estate",
+    "zh": "房地产",
+    "en_note": "Includes borrowed or ownership capital in buildings or land. Developed land includes commercial and industrial real estate, residential real estate, and infrastructure.",
+    "zh_note": "指对建筑物或土地的权益资本或债务资本投资，开发土地包括商业、工业、住宅及基础设施。"
+  },
+  {
+    "word": "Side letter",
+    "zh": "附函协议",
+    "en_note": "A side agreement created between the GP and specific LPs. These agreements exist outside the LPA. These agreements provide additional terms and conditions related to the investment agreement.",
+    "zh_note": "普通合伙人与特定有限合伙人在主协议之外签订的补充协议，约定额外投资条款。"
+  },
+  {
+    "word": "Soft hurdle rate",
+    "zh": "软门槛收益率",
+    "en_note": "Hurdle rate where the fee is calculated on the entire return when the hurdle is exceeded. With a soft hurdle, GPs are able to catch up performance fees once the hurdle threshold is exceeded.",
+    "zh_note": "一旦回报超过门槛收益率，业绩报酬可按全部收益计算。"
+  },
+  {
+    "word": "Venture capital",
+    "zh": "风险投资",
+    "en_note": "Private equity investment in a startup or early-stage company involving high risk and a high rate of failure.",
+    "zh_note": "对初创或早期企业进行的私募股权投资，风险高、失败率高。"
   }
 ];
