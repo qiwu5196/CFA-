@@ -2493,117 +2493,117 @@ window.CARDS = [
   },
   {
     "word": "alternative hypothesis",
-    "zh": "",
+    "zh": "备择假设",
     "en_note": "The hypothesis that is accepted if the null hypothesis is rejected.",
-    "zh_note": ""
+    "zh_note": "当原假设被拒绝时所接受的假设。"
   },
   {
     "word": "confidence level",
-    "zh": "",
+    "zh": "置信水平",
     "en_note": "The complement of the level of significance.",
-    "zh_note": ""
+    "zh_note": "显著性水平的补数，即 1−α。"
   },
   {
     "word": "critical values",
-    "zh": "",
+    "zh": "临界值",
     "en_note": "Values of the test statistic at which the decision changes from fail to reject the null hypothesis to reject the null hypothesis.",
-    "zh_note": ""
+    "zh_note": "使检验结论从不拒绝原假设转为拒绝原假设的检验统计量阈值。"
   },
   {
     "word": "false discovery approach",
-    "zh": "",
+    "zh": "错误发现法",
     "en_note": "An adjustment in the p-values for tests performed multiple times.",
-    "zh_note": ""
+    "zh_note": "针对多重检验对 p 值进行调整的方法。"
   },
   {
     "word": "false discovery rate",
-    "zh": "",
+    "zh": "错误发现率",
     "en_note": "The rate of Type I errors in testing a null hypothesis multiple times for a given level of significance.",
-    "zh_note": ""
+    "zh_note": "在多重假设检验中，一类错误所占的比例。"
   },
   {
     "word": "hypothesis",
-    "zh": "",
+    "zh": "假设",
     "en_note": "A proposed explanation or theory that can be tested.",
-    "zh_note": ""
+    "zh_note": "一个可被检验的解释、判断或理论命题。"
   },
   {
     "word": "hypothesis testing",
-    "zh": "",
+    "zh": "假设检验",
     "en_note": "The process of testing of hypotheses about one or more populations using statistical inference.",
-    "zh_note": ""
+    "zh_note": "利用统计推断对一个或多个总体的假设进行检验的过程。"
   },
   {
     "word": "level of significance",
-    "zh": "",
+    "zh": "显著性水平",
     "en_note": "The probability of a Type I error in testing a hypothesis.",
-    "zh_note": ""
+    "zh_note": "进行假设检验时犯一类错误的概率，通常记为 α。"
   },
   {
     "word": "multiple testing problem",
-    "zh": "",
+    "zh": "多重检验问题",
     "en_note": "The risk of getting statistically significant test results when performing a test multiple times.",
-    "zh_note": ""
+    "zh_note": "重复进行多次检验时，更容易偶然得到显著结果的风险。"
   },
   {
     "word": "null hypothesis",
-    "zh": "",
+    "zh": "原假设",
     "en_note": "The hypothesis that is tested.",
-    "zh_note": ""
+    "zh_note": "在统计检验中被直接检验的假设。"
   },
   {
     "word": "one-sided hypothesis test",
-    "zh": "",
+    "zh": "单侧假设检验",
     "en_note": "A test in which the null hypothesis is rejected only if the evidence indicates that the population parameter is greater than or less than the hypothesized parameter; occurs when the alternative hypothesis is stated either as greater than or less than the hypothesized population parameter.",
-    "zh_note": ""
+    "zh_note": "当备择假设只关心参数大于或小于某值时所采用的单方向检验。"
   },
   {
     "word": "paired comparisons test",
-    "zh": "",
+    "zh": "配对比较检验",
     "en_note": "See test of the mean of the differences.",
-    "zh_note": ""
+    "zh_note": "基于配对样本差值均值进行检验的方法。"
   },
   {
     "word": "power of a test",
-    "zh": "",
+    "zh": "检验力",
     "en_note": "The probability of correctly rejecting the null—that is, rejecting the null hypothesis when it is false.",
-    "zh_note": ""
+    "zh_note": "当原假设为假时，正确拒绝原假设的概率。"
   },
   {
     "word": "p-value",
-    "zh": "",
+    "zh": "p 值",
     "en_note": "The smallest level of significance at which the null hypothesis can be rejected.",
-    "zh_note": ""
+    "zh_note": "使原假设刚好可被拒绝的最小显著性水平。"
   },
   {
     "word": "statistically significant",
-    "zh": "",
+    "zh": "统计显著",
     "en_note": "A result indicating that the null hypothesis can be rejected; with reference to an estimated regression coefficient, frequently understood to mean a result indicating that the corresponding population regression coefficient is different from zero.",
-    "zh_note": ""
+    "zh_note": "表示结果足以拒绝原假设；在回归中常指总体回归系数显著异于零。"
   },
   {
     "word": "test of the mean of the differences",
-    "zh": "",
+    "zh": "差值均值检验",
     "en_note": "A statistical test for differences based on paired observations drawn from samples that are dependent on each other.",
-    "zh_note": ""
+    "zh_note": "基于相关或配对样本观测值差异均值所进行的检验。"
   },
   {
     "word": "two-sided hypothesis test",
-    "zh": "",
+    "zh": "双侧假设检验",
     "en_note": "A test in which the null hypothesis is rejected in favor of the alternative hypothesis if the evidence indicates that the population parameter is either smaller or larger than a hypothesized value; occurs when the alternative hypothesis is stated as not equal to the hypothesized population parameters.",
-    "zh_note": ""
+    "zh_note": "当备择假设为参数不等于某值时，考察两侧偏离的检验方法。"
   },
   {
     "word": "type 1 error",
-    "zh": "",
+    "zh": "一类错误",
     "en_note": "The error of rejecting a true null hypothesis; a false positive.",
-    "zh_note": ""
+    "zh_note": "原假设真实却被错误拒绝，也称假阳性。"
   },
   {
     "word": "type 2 error",
-    "zh": "",
+    "zh": "二类错误",
     "en_note": "The error of not rejecting a false null hypothesis; false negative.",
-    "zh_note": ""
+    "zh_note": "原假设为假却未被拒绝，也称假阴性。"
   },
   {
     "word": "Accounts payable",
