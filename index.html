@@ -18,6 +18,7 @@
           <button class="seg-btn is-active" id="viewCard" type="button">单词卡</button>
           <button class="seg-btn" id="viewList" type="button">单词列表</button>
           <button class="seg-btn" id="viewFav" type="button">单词收藏</button>
+          <button class="seg-btn" id="viewForest" type="button">初始森林</button>
         </div>
 
         <div class="search" role="search">
@@ -62,6 +63,20 @@
         </div>
       </section>
 
+      <section class="view" id="forestView" aria-label="初始森林">
+        <div class="forest-wrap">
+          <canvas id="forestCanvas" width="640" height="300"></canvas>
+          <div class="forest-status">
+            <span id="forestPlantCount">0 株植物</span>
+            <span class="forest-sep">·</span>
+            <span id="forestNextHint">还需 — 张单词召唤下一株</span>
+          </div>
+          <div class="forest-bar-wrap">
+            <div class="forest-bar" id="forestBar"></div>
+          </div>
+        </div>
+      </section>
+
       <div class="meta">
         <div class="hint">我所付出的所有努力都要感谢我的灯塔</div>
       </div>
@@ -70,5 +85,6 @@
 
   <script src="./cards_data.js"></script>
   <script src="./app.js"></script>
+  <script src="./forest.js"></script>
 </body>
 </html>

@@ -329,6 +329,75 @@ header{
 .btn:hover{ background: rgba(255,255,255,.09); }
 .btn:active{ transform: translateY(1px); }
 
+/* ===== FOREST ===== */
+.forest-wrap{
+  display:flex;
+  flex-direction:column;
+  align-items:stretch;
+  padding:14px;
+  gap:10px;
+}
+
+#forestCanvas{
+  width:100%;
+  height:auto;
+  border-radius:14px;
+  border:1px solid rgba(255,255,255,.08);
+  display:block;
+  image-rendering:pixelated;
+}
+
+.forest-status{
+  display:flex;
+  gap:8px;
+  align-items:center;
+  font-size:13px;
+  color:var(--muted);
+  flex-wrap:wrap;
+}
+
+.forest-sep{ opacity:.4; }
+
+.forest-bar-wrap{
+  height:4px;
+  background:rgba(255,255,255,.08);
+  border-radius:999px;
+  overflow:hidden;
+}
+
+.forest-bar{
+  height:100%;
+  background:linear-gradient(90deg,#2d8a2d,#52c452);
+  border-radius:999px;
+  width:0%;
+  transition:width .4s ease;
+}
+
+/* Toast notification */
+.forest-notif{
+  position:fixed;
+  bottom:24px;
+  left:50%;
+  transform:translateX(-50%) translateY(20px);
+  background:rgba(15,30,15,.92);
+  border:1px solid rgba(82,196,82,.3);
+  color:rgba(255,255,255,.9);
+  font-size:13px;
+  padding:9px 18px;
+  border-radius:999px;
+  pointer-events:none;
+  opacity:0;
+  transition:opacity .3s ease, transform .3s ease;
+  white-space:nowrap;
+  z-index:999;
+  backdrop-filter:blur(8px);
+}
+
+.forest-notif.show{
+  opacity:1;
+  transform:translateX(-50%) translateY(0);
+}
+
 @media (max-width: 900px){
   .page{ padding:10px; }
   .panel{ min-height: calc(100vh - 70px); }

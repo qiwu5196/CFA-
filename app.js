@@ -1,7 +1,7 @@
 const CARDS = window.CARDS || [];
 const FAV_KEY = "wordcards:favorites:v1";
 
-let currentView = "card"; // card | list | fav
+let currentView = "card"; // card | list | fav | forest
 let current = null;
 let showBack = false;
 let filtered = [];
@@ -96,6 +96,15 @@ function renderViewTabs() {
   cardView.classList.toggle("is-active", currentView === "card");
   listView.classList.toggle("is-active", currentView === "list");
   favView.classList.toggle("is-active", currentView === "fav");
+
+  // forest tab handled by forest.js
+  const forestBtn = document.getElementById("viewForest");
+  const forestView = document.getElementById("forestView");
+  if (forestBtn) forestBtn.classList.toggle("is-active", currentView === "forest");
+  if (forestView) forestView.classList.toggle("is-active", currentView === "forest");
+  if (currentView === "forest" && typeof renderForestCanvas === "function") {
+    setTimeout(renderForestCanvas, 0);
+  }
 }
 
 function renderSingleList(targetEl, list) {
