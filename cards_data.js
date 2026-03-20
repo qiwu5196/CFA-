@@ -2916,5 +2916,875 @@ window.CARDS = [
     "zh": "风险投资",
     "en_note": "Private equity investment in a startup or early-stage company involving high risk and a high rate of failure.",
     "zh_note": "对初创或早期企业进行的私募股权投资，风险高、失败率高。"
+  },
+  {
+    "word": "Days of inventory on hand",
+    "zh": "存货持有天数",
+    "en_note": "An activity ratio equal to the number of days in the period divided by inventory turnover over the period.",
+    "zh_note": "一项营运比率，等于期间天数除以该期间的存货周转率。"
+  },
+  {
+    "word": "Gross profit margin",
+    "zh": "毛利率",
+    "en_note": "The ratio of gross profit to revenues.",
+    "zh_note": "毛利润与营业收入之比。"
+  },
+  {
+    "word": "Inventory turnover",
+    "zh": "存货周转率",
+    "en_note": "An activity ratio calculated as cost of goods sold divided by average inventory.",
+    "zh_note": "一项营运比率，计算为销售成本除以平均存货。"
+  },
+  {
+    "word": "LIFO reserve",
+    "zh": "后进先出准备",
+    "en_note": "The difference between the reported LIFO inventory carrying amount and the inventory amount that would have been reported if the FIFO method had been used (in other words, the FIFO inventory value less the LIFO inventory value).",
+    "zh_note": "采用后进先出法报告的存货账面金额与若采用先进先出法时应报告金额之间的差额，即 FIFO 存货价值减 LIFO 存货价值。"
+  },
+  {
+    "word": "Net realisable value",
+    "zh": "可变现净值",
+    "en_note": "Estimated selling price in the ordinary course of business less the estimated costs necessary to make the sale.",
+    "zh_note": "正常经营过程中预计售价减去完成销售所必需的估计成本。"
+  },
+  {
+    "word": "Either/or fee",
+    "zh": "二择一收费",
+    "en_note": "A custom fee arrangement whereby major investors are offered a structure where managers agree to charge either a lower management fee or a higher incentive fee, whichever is greater.",
+    "zh_note": "一种费用安排，管理人向重要投资者承诺收取较低管理费或较高业绩费中的较高者。"
+  },
+  {
+    "word": "Founders class shares",
+    "zh": "创始类份额",
+    "en_note": "A way to entice early participation in startup funds whereby managers offer incentives that entitle investors to a lower fee structure and/or other favorable terms.",
+    "zh_note": "为吸引早期投资者而提供的基金份额类别，通常享有较低费率或其他优惠条款。"
+  },
+  {
+    "word": "Gate",
+    "zh": "赎回闸门",
+    "en_note": "A provision that when implemented limits or restricts redemptions for a period of time.",
+    "zh_note": "一项限制性条款，一旦启动，会在一段时间内限制或约束赎回。"
+  },
+  {
+    "word": "J-curve effect",
+    "zh": "J 曲线效应",
+    "en_note": "Net income over a multiyear private investment holding period characterized by negative returns in an initial phase, followed by cash flow and income growth toward the end of the holding period.",
+    "zh_note": "私募投资在多年持有期内，前期回报为负，随后在后期随着现金流和收益增长而改善的净收益轨迹。"
+  },
+  {
+    "word": "Lockup period",
+    "zh": "锁定期",
+    "en_note": "The minimum holding period before investors are allowed to make withdrawals or redeem shares from a fund. Its purpose is to allow the hedge fund manager the required time to implement and potentially realize a strategy's expected results.",
+    "zh_note": "投资者在获准提款或赎回基金份额前必须持有的最短期限，目的是给予管理人实施并兑现策略效果所需时间。"
+  },
+  {
+    "word": "Margin financing",
+    "zh": "保证金融资",
+    "en_note": "A financing arrangement whereby the prime broker lends shares, bonds, or derivatives and the hedge fund (or investment manager) deposits cash or other collateral into a margin account at the prime broker based on certain fractions of the investment positions.",
+    "zh_note": "主经纪商向对冲基金出借股票、债券或衍生品，而基金按持仓的一定比例向保证金账户存入现金或其他抵押品的融资安排。"
+  },
+  {
+    "word": "Multiple of invested capital (MOIC)",
+    "zh": "投入资本倍数（MOIC）",
+    "en_note": "Also referred to as the multiple of money or total value to paid-in, this private market performance measure incorporates both the cumulative distributions received and the net asset value of a fund as a proportion of invested capital.",
+    "zh_note": "又称资金倍数或总价值/实缴资本倍数，衡量私募市场业绩时，将累计分配与基金净资产价值合计后相对于投入资本进行比较。"
+  },
+  {
+    "word": "Notice period",
+    "zh": "通知期",
+    "en_note": "The length of time (typically 30-90 days) in advance that investors may be required to notify a fund of their intent to redeem some or all of their investment. This allows a fund manager to liquidate a position in an orderly fashion without magnifying losses.",
+    "zh_note": "投资者赎回部分或全部投资前，通常需提前 30–90 天通知基金的期限，以便管理人有序变现头寸并避免放大损失。"
+  },
+  {
+    "word": "Prime broker",
+    "zh": "主经纪商",
+    "en_note": "A broker that provides services that commonly include custody, administration, lending, short borrowing, and trading.",
+    "zh_note": "提供托管、行政管理、融资、融券及交易等服务的经纪商。"
+  },
+  {
+    "word": "Redemption fee",
+    "zh": "赎回费",
+    "en_note": "A fee charged to discourage redemptions and to offset the transaction costs for remaining investors in the fund.",
+    "zh_note": "为抑制赎回并补偿基金其余投资者所承担交易成本而收取的费用。"
+  },
+  {
+    "word": "Direct lending",
+    "zh": "直接贷款",
+    "en_note": "Providing capital directly from private debt investors.",
+    "zh_note": "由私募债务投资者直接提供资本的融资方式。"
+  },
+  {
+    "word": "Direct listing",
+    "zh": "直接上市",
+    "en_note": "Where the equity of a security is floated on the public markets directly, without underwriters, reducing the complexity and cost of the transaction.",
+    "zh_note": "证券股权不经承销商、直接在公开市场挂牌流通，从而降低交易复杂度和成本。"
+  },
+  {
+    "word": "Distressed debt",
+    "zh": "困境债务",
+    "en_note": "Debt of mature companies in financial difficulty, in bankruptcy, or likely to default on debt.",
+    "zh_note": "处于财务困境、破产中或很可能违约的成熟企业所发行的债务。"
+  },
+  {
+    "word": "Leveraged buyout (LBO)",
+    "zh": "杠杆收购（LBO）",
+    "en_note": "A transaction in which a private acquiror uses equity and a high proportion of debt to acquire a public or private company in order to make changes to increase value over an investment period.",
+    "zh_note": "私募收购方以股权加高比例债务收购上市或非上市公司，并在投资期内通过经营改善提升价值的交易。"
+  },
+  {
+    "word": "Leveraged loan",
+    "zh": "杠杆贷款",
+    "en_note": "Where private debt investor firms borrow money to make a direct loan to a borrower.",
+    "zh_note": "私募债务投资机构先借入资金，再向借款人发放直接贷款。"
+  },
+  {
+    "word": "Management buy-in",
+    "zh": "管理层外部收购",
+    "en_note": "A type of leveraged buyout where the current management team is replaced with the acquiring team involved in managing the company.",
+    "zh_note": "一种杠杆收购形式，由收购方管理团队接管并替换现有管理层。"
+  },
+  {
+    "word": "Management buyout",
+    "zh": "管理层收购",
+    "en_note": "A private sale to a strategic buyer that includes a company's existing management. The management team commits their own equity capital along with other investors as an incentive to grow the firm's cash flows and value.",
+    "zh_note": "包含公司现有管理层参与的私下出售交易；管理层与其他投资者共同投入股权资本，以激励提升公司现金流和价值。"
+  },
+  {
+    "word": "Mezzanine debt",
+    "zh": "夹层债务",
+    "en_note": "Refers to private credit subordinated to senior secured debt but senior to equity in the borrower's capital structure.",
+    "zh_note": "在借款人资本结构中劣后于高级担保债务、但优先于股权的私募信贷。"
+  },
+  {
+    "word": "Mezzanine-stage financing",
+    "zh": "夹层阶段融资",
+    "en_note": "Mezzanine venture capital that prepares a company to go public as it continues to expand capacity and enhance its growth trajectory. It represents the bridge financing needed to fund a private firm until it can execute an IPO or be sold.",
+    "zh_note": "一种为企业上市前扩张和成长提供过桥资金的夹层风险投资融资。"
+  },
+  {
+    "word": "PIPE (private investment in public equity)",
+    "zh": "上市公司私募投资（PIPE）",
+    "en_note": "A private offering to select investors with fewer disclosures and lower transaction costs that allows the issuer to raise capital more quickly and cost effectively.",
+    "zh_note": "向特定投资者进行的信息披露较少、交易成本较低的私募发行，使发行人能更快、更经济地融资。"
+  },
+  {
+    "word": "Portfolio companies",
+    "zh": "被投组合公司",
+    "en_note": "The individual companies owned by a private equity firm.",
+    "zh_note": "由私募股权公司持有的各个企业。"
+  },
+  {
+    "word": "Recapitalization",
+    "zh": "资本重组",
+    "en_note": "Recapitalization via private equity describes the steps a firm takes to increase or introduce leverage to its portfolio company and pay itself a dividend out of the new capital structure.",
+    "zh_note": "私募股权中的资本重组，是指提高或引入组合公司杠杆，并基于新资本结构向自身支付股息。"
+  },
+  {
+    "word": "Secondary sale",
+    "zh": "二级出售",
+    "en_note": "Sale of a private company stake to another private equity firm or group of financial buyers.",
+    "zh_note": "将私人公司股权出售给另一家私募股权公司或其他财务买方。"
+  },
+  {
+    "word": "Special purpose acquisition company",
+    "zh": "特殊目的收购公司",
+    "en_note": "A \"blank check\" company that exists solely for the purpose of acquiring an unspecified private company within a predetermined period or return capital to investors.",
+    "zh_note": "一种“空白支票”公司，仅为在预定期限内收购某家未指定的私人公司，否则向投资者返还资金而设立。"
+  },
+  {
+    "word": "Stockholder overhang",
+    "zh": "股东抛压",
+    "en_note": "The downward pressure on the share price of stock as large blocks of shares are being sold on the open market.",
+    "zh_note": "大宗股份在公开市场出售时，对股价形成的下行压力。"
+  },
+  {
+    "word": "Trade sale",
+    "zh": "产业出售",
+    "en_note": "A portion or division of a private company sold via either direct sale or auction to a strategic buyer interested in increasing the scale and scope of an existing business.",
+    "zh_note": "私人公司整体或部分业务通过直接出售或拍卖方式卖给希望扩大现有业务规模与范围的战略买家。"
+  },
+  {
+    "word": "Unitranche debt",
+    "zh": "统一分层债务",
+    "en_note": "A hybrid or blended loan structure combining different tranches of secured and unsecured debt into a single loan with a single, blended interest rate.",
+    "zh_note": "将有担保与无担保等不同层级债务合并为单一贷款、并采用统一综合利率的混合贷款结构。"
+  },
+  {
+    "word": "Venture debt",
+    "zh": "风险债务",
+    "en_note": "Private debt funding that provides venture capital backing to start-up or early-stage companies that may be generating little or negative cash flow.",
+    "zh_note": "向初创或早期企业提供的私募债务融资，这类企业通常已有风投资本支持但现金流很少或为负。"
+  },
+  {
+    "word": "Vintage year",
+    "zh": "基金起始年份",
+    "en_note": "The year in which a private capital fund makes its first investment.",
+    "zh_note": "私募资本基金进行首笔投资的年份。"
+  },
+  {
+    "word": "Write-off/liquidation",
+    "zh": "核销/清算",
+    "en_note": "Refers to a transaction that has not gone well, and the investment is likely to lose value. The private equity firm revises the value of its investment downward or liquidates the portfolio company.",
+    "zh_note": "指一项投资进展不佳、很可能损失价值；私募股权机构会下调投资估值或清算组合公司。"
+  },
+  {
+    "word": "Brownfield investments",
+    "zh": "棕地投资",
+    "en_note": "The third stage of development of an infrastructure asset. Brownfield investments involve expanding existing facilities and may involve privatization of public assets or a sale leaseback of completed greenfield projects. They are characterized by a shorter investment period with immediate cash flows and an operating history.",
+    "zh_note": "基础设施资产开发的第三阶段，指扩建现有设施，可能包括公共资产私有化或已建成绿地项目的售后回租；其特点是投资期较短、现金流立即产生且有经营历史。"
+  },
+  {
+    "word": "Core-plus real estate strategies",
+    "zh": "核心增益型房地产策略",
+    "en_note": "Value-add investments that require modest redevelopment or upgrades to lease any vacant space together with possible alternative use of the underlying properties. Compared to core real estate strategies, these may be appealing for investors seeking higher returns and willing to accept additional risks from development, redevelopment, repositioning, and leasing.",
+    "zh_note": "需要适度重建、升级或出租空置面积，并可能改变物业用途的增值型投资；相较核心型策略，回报更高，但需承担更多开发、再开发、重新定位和租赁风险。"
+  },
+  {
+    "word": "Core real estate strategies",
+    "zh": "核心型房地产策略",
+    "en_note": "Strategies with exposure to well-leased, high-quality commercial and residential real estate in the best markets, generally offered by open-end funds. Investors expect core real estate to deliver stable returns, primarily from income from the property.",
+    "zh_note": "投资于最佳市场中出租率高、质量优良的商业和住宅房地产，通常由开放式基金提供；回报主要来自稳定租金收入。"
+  },
+  {
+    "word": "Economic infrastructure investments",
+    "zh": "经济型基础设施投资",
+    "en_note": "A category of infrastructure investments that support economic activity through transportation assets, information and communication technology assets, and utility and energy assets.",
+    "zh_note": "支持经济活动的基础设施投资类别，包括交通、信息与通信以及公用事业和能源资产。"
+  },
+  {
+    "word": "Greenfield investments",
+    "zh": "绿地投资",
+    "en_note": "New, \"to-be-built\" infrastructure projects and assets created to provide a specific essential service or to supply a public good.",
+    "zh_note": "新建、待建设的基础设施项目和资产，用于提供特定基本服务或公共产品。"
+  },
+  {
+    "word": "Opportunistic real estate strategies",
+    "zh": "机会型房地产策略",
+    "en_note": "Include major redevelopment, repurposing of assets, taking on large vacancies, or speculating on significant improvement in market conditions. These may be appealing for investors seeking higher returns and willing to accept additional risks from development, redevelopment, repositioning, and leasing.",
+    "zh_note": "包括大规模再开发、资产改造、承受较高空置率或押注市场状况显著改善；适合追求更高回报并愿承担更高开发、重新定位和租赁风险的投资者。"
+  },
+  {
+    "word": "Public-private partnership",
+    "zh": "公私合作伙伴关系",
+    "en_note": "A long-term contractual relationship between the public and private sectors for the purpose of having the private sector deliver a project or service traditionally provided by the public sector. Infrastructure is increasingly being financed privately through public-private partnerships by local, regional, and national governments.",
+    "zh_note": "公共部门与私营部门之间的长期合同关系，由私营部门交付传统上由公共部门提供的项目或服务。"
+  },
+  {
+    "word": "Secondary-stage investments",
+    "zh": "次阶段投资",
+    "en_note": "The second stage of development of an infrastructure asset. Secondary-stage investments involve existing infrastructure facilities or fully operational assets that do not require further investment or development over the investment horizon. These assets generate immediate cash flow and returns expected over the investment period.",
+    "zh_note": "基础设施资产开发的第二阶段，指已存在且完全运营、在投资期内无需进一步开发的资产，可立即产生现金流和预期回报。"
+  },
+  {
+    "word": "Social infrastructure investments",
+    "zh": "社会型基础设施投资",
+    "en_note": "A category of infrastructure investments that are directed toward human activities and include such assets as educational, health care, social housing, and correctional facilities, with the focus on providing, operating, and maintaining the asset infrastructure.",
+    "zh_note": "面向人类活动的基础设施投资类别，包括教育、医疗、社会住房和惩教设施等，重点在于提供、运营和维护相关资产。"
+  },
+  {
+    "word": "Value-add real estate strategies",
+    "zh": "增值型房地产策略",
+    "en_note": "Strategies that involve larger-scale redevelopment and repositioning of existing assets and that may allow the investor to earn a higher return compared with core-plus real estate strategies.",
+    "zh_note": "通过对现有资产进行较大规模再开发和重新定位，以争取高于核心增益型策略的回报。"
+  },
+  {
+    "word": "Backwardation",
+    "zh": "现货溢价",
+    "en_note": "A downward-sloping, or inverted, forward curve in a futures market.",
+    "zh_note": "期货市场中远期曲线向下倾斜，即倒挂状态。"
+  },
+  {
+    "word": "Contango",
+    "zh": "期货升水",
+    "en_note": "Refers to spot price below forward price in a futures market.",
+    "zh_note": "期货市场中现货价格低于远期价格的状态。"
+  },
+  {
+    "word": "Separately managed account (SMA)",
+    "zh": "单独管理账户（SMA）",
+    "en_note": "An investment portfolio managed exclusively for the benefit of an individual or institution.",
+    "zh_note": "专门为某一位个人或机构利益而独立管理的投资组合。"
+  },
+  {
+    "word": "Timberland investment management organizations",
+    "zh": "林地投资管理机构",
+    "en_note": "Entities that support institutional investors by managing their investments in timberland by analyzing and acquiring suitable timberland holdings.",
+    "zh_note": "通过分析并收购合适林地资产，帮助机构投资者管理其林地投资的专业机构。"
+  },
+  {
+    "word": "Activist",
+    "zh": "激进投资者",
+    "en_note": "Short for \"activist shareholder.\" Managers secure sufficient equity holdings to allow them to seek a position in a company's board and influence corporate policies or direction.",
+    "zh_note": "“激进股东”的简称；管理人通过持有足够股权争取进入董事会并影响公司政策或方向。"
+  },
+  {
+    "word": "Distressed/restructuring",
+    "zh": "困境/重组策略",
+    "en_note": "These strategies focus on securities of companies either in or perceived to be near bankruptcy. In one approach, hedge funds simply purchase fixed-income securities trading at a significant discount to par but that are still senior enough to be backed by sufficient corporate assets.",
+    "zh_note": "聚焦于已破产或接近破产公司的证券；一种做法是买入以大幅低于面值交易、但在清偿顺序上仍足够优先并有企业资产支持的固定收益证券。"
+  },
+  {
+    "word": "Fundamental growth",
+    "zh": "基本面成长策略",
+    "en_note": "These strategies use fundamental analysis to identify companies expected to exhibit high growth and capital appreciation.",
+    "zh_note": "运用基本面分析识别预期具有高增长和资本增值潜力的公司。"
+  },
+  {
+    "word": "Fundamental long/short",
+    "zh": "基本面多空策略",
+    "en_note": "In this strategy, the hedge fund takes a long position in companies that are trading at inexpensive levels compared to their potential intrinsic value and shorts those that trade in the other direction, with the intention of reversing this trade to obtain alpha.",
+    "zh_note": "做多相对其内在价值被低估的公司，做空高估公司，并通过最终平仓获取阿尔法。"
+  },
+  {
+    "word": "Fundamental value",
+    "zh": "基本面价值策略",
+    "en_note": "These strategies use fundamental analysis to identify undervalued and unloved companies for which there is a possibility that a corporate turnaround, with future revenue and cash flow growth, will result in higher valuations.",
+    "zh_note": "运用基本面分析寻找被低估、暂不受市场青睐的公司，预期其经营扭转后收入和现金流增长将带来更高估值。"
+  },
+  {
+    "word": "Market neutral",
+    "zh": "市场中性策略",
+    "en_note": "These strategies use quantitative, fundamental, and technical analysis to identify under- and overvalued equity securities. The hedge fund takes long positions in undervalued securities and short positions in overvalued securities, while seeking to maintain a market-neutral net position.",
+    "zh_note": "运用量化、基本面和技术分析识别低估与高估股票，做多低估、做空高估，并力求维持净市场敞口中性。"
+  },
+  {
+    "word": "Merger arbitrage",
+    "zh": "并购套利",
+    "en_note": "Special situations investments related to business combinations in which investors seek to capitalize on price discrepancies of securities issued by the target company.",
+    "zh_note": "与企业并购相关的特殊情形投资，投资者试图利用目标公司证券的价格错配获利。"
+  },
+  {
+    "word": "Short biased",
+    "zh": "偏空策略",
+    "en_note": "These strategies use quantitative, technical, and fundamental analysis to short overvalued equity securities with limited or no long-side exposures.",
+    "zh_note": "运用量化、技术和基本面分析做空高估股票，几乎不持有或仅持有限多头敞口。"
+  },
+  {
+    "word": "Special situations",
+    "zh": "特殊情形投资",
+    "en_note": "An area of private capital investment which targets return by investing in stressed, distressed, or event-driven opportunities.",
+    "zh_note": "私募资本投资中的一个领域，通过投资于受压、困境或事件驱动机会来获取回报。"
+  },
+  {
+    "word": "Finance lease",
+    "zh": "融资租赁",
+    "en_note": "A type of lease which is more akin to the purchase or sale of the underlying asset.",
+    "zh_note": "一种更接近于购买或出售标的资产的租赁形式。"
+  },
+  {
+    "word": "Revaluation model",
+    "zh": "重估模型",
+    "en_note": "Under IFRS, the process of valuing long-lived assets at fair value, rather than at cost less accumulated depreciation. Any resulting profit or loss is either reported on the income statement and/or through equity under revaluation surplus.",
+    "zh_note": "在 IFRS 下，以公允价值而非成本减累计折旧计量长期资产的方法；由此产生的损益计入利润表和/或重估盈余。"
+  },
+  {
+    "word": "Units-of-production method",
+    "zh": "产量法",
+    "en_note": "A depreciation method that allocates the cost of a long-lived asset based on actual usage during the period.",
+    "zh_note": "根据期间实际使用量分配长期资产成本的折旧方法。"
+  },
+  {
+    "word": "Altcoin",
+    "zh": "山寨币",
+    "en_note": "A cryptocurrency other than Bitcoin.",
+    "zh_note": "比特币以外的加密货币。"
+  },
+  {
+    "word": "Asset-backed token",
+    "zh": "资产支持型代币",
+    "en_note": "A token that represents the ownership of a physical asset that does not exist on the blockchain and whose value is based on the underlying asset.",
+    "zh_note": "代表链下实物资产所有权、其价值基于基础资产的代币。"
+  },
+  {
+    "word": "Bitcoin",
+    "zh": "比特币",
+    "en_note": "A cryptocurrency using blockchain technology that was created in 2009.",
+    "zh_note": "一种于 2009 年诞生、使用区块链技术的加密货币。"
+  },
+  {
+    "word": "Blockchain",
+    "zh": "区块链",
+    "en_note": "A type of digital ledger in which information is recorded sequentially and then linked together and secured using cryptographic methods.",
+    "zh_note": "一种数字账本，信息按顺序记录并通过密码学方法链接和保护。"
+  },
+  {
+    "word": "Central bank digital currencies (CBDCs)",
+    "zh": "中央银行数字货币（CBDC）",
+    "en_note": "A tokenized version of the currency issued by the central bank, such as a digital bank note or coin, and a digital liability of the central bank.",
+    "zh_note": "由中央银行发行的货币代币化形式，如数字纸币或硬币，同时也是中央银行的数字负债。"
+  },
+  {
+    "word": "Consensus protocol",
+    "zh": "共识协议",
+    "en_note": "A set of rules governing how blocks can join the blockchain that is designed to resist attempts at malicious manipulation up to a certain level of security; it can be either a proof of work or a proof of stake.",
+    "zh_note": "规定区块如何加入区块链的一套规则，旨在在一定安全水平内抵御恶意操纵；可采用工作量证明或权益证明。"
+  },
+  {
+    "word": "Cryptocurrency",
+    "zh": "加密货币",
+    "en_note": "An electronic medium of exchange that lacks physical form.",
+    "zh_note": "一种无实物形态的电子交换媒介。"
+  },
+  {
+    "word": "Cryptocurrency wallet",
+    "zh": "加密货币钱包",
+    "en_note": "A storage unit for public and/or private keys for cryptocurrency transactions. These wallets may be a physical device, program, or service.",
+    "zh_note": "用于存储加密货币交易所需公钥和/或私钥的载体，可为硬件设备、软件程序或服务。"
+  },
+  {
+    "word": "Cryptography",
+    "zh": "密码学",
+    "en_note": "An algorithmic process to encrypt data, making the data unusable if received by unauthorized parties.",
+    "zh_note": "通过算法对数据进行加密的过程，使未经授权者获取数据后也无法使用。"
+  },
+  {
+    "word": "Distributed ledger",
+    "zh": "分布式账本",
+    "en_note": "A type of database that can be shared among entities in a network.",
+    "zh_note": "一种可由网络中多个实体共享的数据库。"
+  },
+  {
+    "word": "Distributed ledger technology (DLT)",
+    "zh": "分布式账本技术（DLT）",
+    "en_note": "Technology based on a distributed ledger.",
+    "zh_note": "基于分布式账本的技术。"
+  },
+  {
+    "word": "Ether",
+    "zh": "以太币",
+    "en_note": "A programmable cryptocurrency created on the Ethereum blockchain in 2015 that allows for the execution of smart contracts.",
+    "zh_note": "2015 年在以太坊区块链上创建的可编程加密货币，可用于执行智能合约。"
+  },
+  {
+    "word": "Governance tokens",
+    "zh": "治理代币",
+    "en_note": "In permissionless networks, governance tokens serve as votes to determine how the particular network is run.",
+    "zh_note": "在无许可网络中，治理代币作为投票权，用于决定特定网络如何运行。"
+  },
+  {
+    "word": "Initial coin offering (ICO)",
+    "zh": "首次代币发行（ICO）",
+    "en_note": "An unregulated process whereby companies raise capital by selling crypto-tokens to investors in exchange for fiat money or another agreed-upon cryptocurrency.",
+    "zh_note": "一种监管较少的融资方式，企业通过向投资者出售加密代币换取法币或其他约定加密货币。"
+  },
+  {
+    "word": "Meme coin",
+    "zh": "迷因币",
+    "en_note": "A type of altcoin that is often inspired by a joke.",
+    "zh_note": "一种通常受玩笑或网络梗启发而产生的山寨币。"
+  },
+  {
+    "word": "Miner",
+    "zh": "矿工",
+    "en_note": "A validator of transactions on the blockchain that locks blocks of transactions into the blockchain and receives compensation for this process in the form of a digital asset.",
+    "zh_note": "区块链交易验证者，负责将交易区块写入区块链，并以数字资产形式获得报酬。"
+  },
+  {
+    "word": "Non-fungible token (NFT)",
+    "zh": "非同质化代币（NFT）",
+    "en_note": "A unique cryptographic token on the blockchain that cannot be replicated and is used to represent ownership of physical assets, such as artwork, real estate, or other assets.",
+    "zh_note": "区块链上的独特加密代币，不能复制，用于代表艺术品、房地产等实物资产的所有权。"
+  },
+  {
+    "word": "Permissioned networks",
+    "zh": "许可型网络",
+    "en_note": "Networks that are fully open only to select participants on a DLT network.",
+    "zh_note": "在 DLT 网络中仅对特定参与者完全开放的网络。"
+  },
+  {
+    "word": "Permissionless networks",
+    "zh": "无许可网络",
+    "en_note": "Networks that are fully open to any user on a DLT network.",
+    "zh_note": "在 DLT 网络中对任何用户完全开放的网络。"
+  },
+  {
+    "word": "Security tokens",
+    "zh": "证券型代币",
+    "en_note": "Digitizes the ownership rights associated with publicly traded securities.",
+    "zh_note": "将公开交易证券相关的所有权权利数字化。"
+  },
+  {
+    "word": "Smart contracts",
+    "zh": "智能合约",
+    "en_note": "Computer programs that are designed to self-execute on the basis of pre-specified terms and conditions agreed to by parties to a contract.",
+    "zh_note": "根据合同各方预先约定的条款自动执行的计算机程序。"
+  },
+  {
+    "word": "Stablecoin",
+    "zh": "稳定币",
+    "en_note": "A cryptocurrency that aims to maintain a stable value relative to a specified asset or to a pool or basket of assets.",
+    "zh_note": "旨在相对于某一特定资产或一篮子资产维持稳定价值的加密货币。"
+  },
+  {
+    "word": "Tokenization",
+    "zh": "代币化",
+    "en_note": "The process of representing ownership rights to physical assets on a blockchain or distributed ledger.",
+    "zh_note": "在区块链或分布式账本上表示实物资产所有权的过程。"
+  },
+  {
+    "word": "Utility tokens",
+    "zh": "功能型代币",
+    "en_note": "Tokens that provide services within a network, such as paying for services and network fees.",
+    "zh_note": "在网络中提供服务用途的代币，例如支付服务费用和网络手续费。"
+  },
+  {
+    "word": "Coupon rate",
+    "zh": "票面利率",
+    "en_note": "The interest rate promised in a contract; this is the rate used to calculate the periodic interest payments.",
+    "zh_note": "合同中承诺的利率，用于计算定期利息支付。"
+  },
+  {
+    "word": "Effective interest rate",
+    "zh": "实际利率",
+    "en_note": "The borrowing rate or market rate that a company incurs at the time of issuance of a bond.",
+    "zh_note": "公司在债券发行时承担的借款利率或市场利率。"
+  },
+  {
+    "word": "Face value",
+    "zh": "面值",
+    "en_note": "The amount of principal on a bond, also known as par value.",
+    "zh_note": "债券本金金额，也称票面价值。"
+  },
+  {
+    "word": "Market rate of interest",
+    "zh": "市场利率",
+    "en_note": "The rate demanded by purchasers of bonds, given the risks associated with future cash payment obligations of the particular bond issue.",
+    "zh_note": "考虑某一债券未来现金支付义务相关风险后，债券购买者要求的利率。"
+  },
+  {
+    "word": "Board of directors",
+    "zh": "董事会",
+    "en_note": "A body or individual selected by a limited company's member(s) or shareholder(s), in a manner determined by the company's charter, that manages the company. Typically, for larger companies, boards of directors appoint and oversee executive management.",
+    "zh_note": "由有限责任公司成员或股东依公司章程选任、负责管理公司的机构或个人；大型公司中，董事会通常任命并监督高管层。"
+  },
+  {
+    "word": "Businesses",
+    "zh": "企业",
+    "en_note": "Organization entities formed and managed for the purpose of providing a return or economic benefits to its investors and owners.",
+    "zh_note": "为向投资者和所有者提供回报或经济利益而设立并经营的组织实体。"
+  },
+  {
+    "word": "Companies",
+    "zh": "公司",
+    "en_note": "Organization entities formed and managed for the purpose of providing a return or economic benefits to its investors and owners.",
+    "zh_note": "为向投资者和所有者提供回报或经济利益而设立并经营的组织实体。"
+  },
+  {
+    "word": "Corporate issuers",
+    "zh": "公司发行人",
+    "en_note": "Limited companies or corporations that seek financing in financial markets by, for example, issuing debt or equity securities.",
+    "zh_note": "通过发行债务或股权证券等方式在金融市场融资的有限责任公司或法人企业。"
+  },
+  {
+    "word": "Corporations",
+    "zh": "法人公司",
+    "en_note": "Another term for limited companies, though often used to refer to public limited companies. See limited company, private limited company, and public limited company.",
+    "zh_note": "有限责任公司的另一称谓，常指公众公司。参见有限责任公司、私人有限公司和公众有限公司。"
+  },
+  {
+    "word": "Debt",
+    "zh": "债务",
+    "en_note": "A claim against an entity to receive cash, stock, or other assets at a future date. From the perspective of the debtor or borrower, an obligation to pay cash, stock, or other assets at a future date. Generally, debt claims are unconditional and are senior to equity claims.",
+    "zh_note": "对某一实体在未来收取现金、股票或其他资产的请求权；从债务人角度看，则是在未来支付现金、股票或其他资产的义务。债权通常为无条件请求权，且优先于股权。"
+  },
+  {
+    "word": "Dividends",
+    "zh": "股利",
+    "en_note": "Distributions of profits and/or net assets from a corporation to its shareholders. While often in cash, dividends can be also be paid in stock or assets, such as property.",
+    "zh_note": "公司向股东分配利润和/或净资产。股利通常以现金支付，也可用股票或财产等资产支付。"
+  },
+  {
+    "word": "Double taxation",
+    "zh": "双重征税",
+    "en_note": "Income is taxed twice.",
+    "zh_note": "同一收入被征税两次。"
+  },
+  {
+    "word": "Exchange",
+    "zh": "交易所",
+    "en_note": "A rules-based, open access market venue where financial instruments are traded, with price and volume transparency accessible by issuers, investors, and their intermediaries.",
+    "zh_note": "基于规则、开放准入的市场场所，金融工具在其中交易，且价格与成交量信息对发行人、投资者及其中介透明。"
+  },
+  {
+    "word": "Free float",
+    "zh": "自由流通股",
+    "en_note": "The portion of a listed company's equity securities that are not held by insiders, strategic investors, sponsors, founders, and so on, that are more freely available for trading.",
+    "zh_note": "上市公司股权证券中，不由内部人、战略投资者、发起人、创始人等持有、因此更可自由交易的部分。"
+  },
+  {
+    "word": "General partners (GPs)",
+    "zh": "普通合伙人（GP）",
+    "en_note": "Private fund managers responsible for sourcing and deploying capital from limited partner investors over an investment life cycle and distributing returns to those investors over a finite investment holding period.",
+    "zh_note": "私募基金管理人，负责在投资生命周期内向有限合伙人募集并配置资本，并在有限持有期内向其分配回报。"
+  },
+  {
+    "word": "General partnership",
+    "zh": "普通合伙",
+    "en_note": "A business organizational form owned entirely by general partners.",
+    "zh_note": "完全由普通合伙人拥有的一种企业组织形式。"
+  },
+  {
+    "word": "Initial public offering (IPO)",
+    "zh": "首次公开发行（IPO）",
+    "en_note": "The first issuance of common shares to the public by a formerly private corporation.",
+    "zh_note": "原先为私人公司的企业首次向公众发行普通股。"
+  },
+  {
+    "word": "Limited company",
+    "zh": "有限责任公司",
+    "en_note": "A business organizational form owned by shareholders or members with limited liability who elect a board of directors to appoint management. Generally, limited companies have indefinite life and easier transfer of ownership interests than limited partnerships.",
+    "zh_note": "由承担有限责任的股东或成员拥有并选举董事会任命管理层的企业组织形式；通常具有永续存续和较易转让所有权的特点。"
+  },
+  {
+    "word": "Limited liability partnership (LLP)",
+    "zh": "有限责任合伙（LLP）",
+    "en_note": "A business organizational form available in some jurisdictions owned entirely by limited partners with limited liability.",
+    "zh_note": "某些司法辖区允许的一种企业组织形式，由享有有限责任的有限合伙人完全拥有。"
+  },
+  {
+    "word": "Limited partnership",
+    "zh": "有限合伙",
+    "en_note": "Closed-end form of ownership frequently used in private market funds in which private market fund investors, or limited partners, commit capital that is invested, managed, and distributed by a private market fund manager, or general partner, over an investment holding period.",
+    "zh_note": "私募市场基金常用的封闭式所有权形式，投资者即有限合伙人承诺出资，由普通合伙人在投资持有期内负责投资、管理并分配回报。"
+  },
+  {
+    "word": "Limited partners (LPs)",
+    "zh": "有限合伙人（LP）",
+    "en_note": "Outside investors in a private market fund who own a fractional interest in a limited, closed-end partnership managed by a general partner based on the investment commitment and other terms set out in a limited partner agreement.",
+    "zh_note": "私募市场基金的外部投资者，依据出资承诺及有限合伙协议其他条款，持有由普通合伙人管理的封闭式有限合伙份额。"
+  },
+  {
+    "word": "Organizational form",
+    "zh": "组织形式",
+    "en_note": "A legal and tax classification of a business, specific to a jurisdiction, that determines the organization's legal identity, owner-manager relationship, owner liability, taxation, and access to financing.",
+    "zh_note": "特定司法辖区下企业的法律与税务分类，决定组织法律身份、所有者与管理者关系、所有者责任、税负及融资渠道。"
+  },
+  {
+    "word": "Pass-through businesses",
+    "zh": "穿透纳税企业",
+    "en_note": "Businesses that, by virtue of their organizational form and/or other legal and regulatory attributes, do not pay entity-level taxes on income or loss; income or loss is passed through to owners, who pay personal taxes.",
+    "zh_note": "因其组织形式或法律监管属性而不在实体层面缴纳所得税的企业；其收入或亏损直接传递给所有者，由其缴纳个人所得税。"
+  },
+  {
+    "word": "Private company",
+    "zh": "私人公司",
+    "en_note": "A company, typically a limited company, that does not list its equity securities on an exchange.",
+    "zh_note": "通常指不在交易所上市其股权证券的公司。"
+  },
+  {
+    "word": "Private limited company",
+    "zh": "私人有限公司",
+    "en_note": "A type of limited company in many jurisdictions with pass-through taxation but restrictions on the number of shareholders or members and on the transfer of ownership interest.",
+    "zh_note": "许多司法辖区中的一种有限责任公司形式，具有穿透纳税特征，但对股东人数和所有权转让有所限制。"
+  },
+  {
+    "word": "Private placement",
+    "zh": "私募发行",
+    "en_note": "A sale of debt or equity securities to a small group of investors on an unregulated basis. The terms of the offering are negotiated by the issuer and investors.",
+    "zh_note": "向少数投资者出售债务或股权证券的非公开发行方式，发行条款由发行人与投资者协商确定。"
+  },
+  {
+    "word": "Public limited companies",
+    "zh": "公众有限公司",
+    "en_note": "A type of limited company in many jurisdictions with entity-level taxation but no restrictions on the number of shareholders or transferability of ownership interest; the most suitable organizational form for a company that seeks to go public.",
+    "zh_note": "许多司法辖区中的一种有限责任公司形式，在实体层面纳税，但不限制股东人数或所有权转让，最适合拟上市公司。"
+  },
+  {
+    "word": "Public (listed) company",
+    "zh": "上市公司",
+    "en_note": "A company with its equity securities traded on an exchange.",
+    "zh_note": "其股权证券在交易所交易的公司。"
+  },
+  {
+    "word": "Security",
+    "zh": "证券",
+    "en_note": "Evidence of equity or debt interest or in an entity or a related right, such as a derivative. Often standardized to conform to security exchange requirements.",
+    "zh_note": "证明股权、债权或相关权利（如衍生品权利）的凭证，通常标准化以符合交易所要求。"
+  },
+  {
+    "word": "Shareholders",
+    "zh": "股东",
+    "en_note": "Hold a direct equity position in a firm, and both individual persons and financial institutions can be shareholders. The term comes from the individual or investment firm literally having a share of the company. It is most commonly used when talking about the rights and responsibilities that come with being an \"owner\" of a company, such as stewardship, voting, and engagement. This differentiates it from a situation where an individual or an investment firm lends money or invests in a bond (in other words, they are not an equityholder of a company). Because bond investors do not have a share and are not owners of a company, they cannot vote. Nonetheless, expectations around engagement are increasing for those who invest in loans and bonds as well, making the difference between the two terms more subtle.",
+    "zh_note": "直接持有公司股权的个人或机构投资者。该术语强调其作为公司“所有者”所享有的受托、投票和参与治理等权利与责任，不同于仅提供贷款或持有债券的投资者。"
+  },
+  {
+    "word": "Shares",
+    "zh": "股份",
+    "en_note": "Units of ownership interest in a limited company.",
+    "zh_note": "有限责任公司所有权权益的单位。"
+  },
+  {
+    "word": "Sophisticated investors",
+    "zh": "成熟投资者",
+    "en_note": "Individuals or entities that are permitted in a jurisdiction to trade unregistered or, generally, less regulated securities, including shares of privately held companies; also called accredited investors.",
+    "zh_note": "在某司法辖区内被允许交易未注册或监管较少证券（包括私人公司股份）的个人或机构，也称合格投资者。"
+  },
+  {
+    "word": "Stock exchange",
+    "zh": "证券交易所",
+    "en_note": "An exchange in which equity securities are traded. See exchanges.",
+    "zh_note": "交易股权证券的交易所。参见交易所。"
+  },
+  {
+    "word": "Voting rights",
+    "zh": "表决权",
+    "en_note": "The power of shareholders to cast votes in corporate elections for directors and other matters submitted to a shareholder vote.",
+    "zh_note": "股东在董事选举及其他提交股东表决事项中投票的权力。"
+  },
+  {
+    "word": "Back-testing",
+    "zh": "回测",
+    "en_note": "The process that approximates the real-life investment process, using historical data, to assess whether an investment strategy would have produced desirable results.",
+    "zh_note": "使用历史数据模拟真实投资过程，以评估某投资策略是否会产生理想结果。"
+  },
+  {
+    "word": "Bottom-up analysis",
+    "zh": "自下而上分析",
+    "en_note": "An investment selection approach that focuses on company-specific circumstances rather than emphasizing economic cycles or industry analysis.",
+    "zh_note": "一种投资选择方法，侧重公司特定情况，而非强调经济周期或行业分析。"
+  },
+  {
+    "word": "Credit analysis",
+    "zh": "信用分析",
+    "en_note": "The evaluation of credit risk; the evaluation of the creditworthiness of a borrower or counterparty.",
+    "zh_note": "对信用风险或借款人、交易对手信用状况的评估。"
+  },
+  {
+    "word": "Credit risk",
+    "zh": "信用风险",
+    "en_note": "The expected economic loss under a potential borrower default over the life of the contract.",
+    "zh_note": "在合同存续期内，潜在借款人违约所导致的预期经济损失。"
+  },
+  {
+    "word": "Growth investors",
+    "zh": "成长型投资者",
+    "en_note": "With reference to equity investors, investors who seek to invest in high-earnings-growth companies.",
+    "zh_note": "就股票投资者而言，寻求投资于高盈利增长公司的投资者。"
+  },
+  {
+    "word": "Market-oriented investors",
+    "zh": "市场导向型投资者",
+    "en_note": "With reference to equity investors, investors whose investment disciplines cannot be clearly categorized as value or growth.",
+    "zh_note": "就股票投资者而言，其投资风格无法明确归类为价值型或成长型的投资者。"
+  },
+  {
+    "word": "Screening",
+    "zh": "筛选",
+    "en_note": "The application of a set of criteria to reduce a set of potential investments to a smaller set having certain desired characteristics.",
+    "zh_note": "应用一组标准，将潜在投资集合缩小为具有特定理想特征的较小集合。"
+  },
+  {
+    "word": "Top-down analysis",
+    "zh": "自上而下分析",
+    "en_note": "An investment selection approach that begins with consideration of macroeconomic conditions and then evaluates markets and industries based upon such conditions.",
+    "zh_note": "一种投资选择方法，从宏观经济条件出发，再据此评估市场和行业。"
+  },
+  {
+    "word": "Total invested capital",
+    "zh": "总投入资本",
+    "en_note": "The sum of market value of common equity, book value of preferred equity, and face value of debt.",
+    "zh_note": "普通股市值、优先股账面价值与债务面值之和。"
+  },
+  {
+    "word": "Value investors",
+    "zh": "价值型投资者",
+    "en_note": "With reference to equity investors, investors who are focused on paying a relatively low share price in relation to earnings or assets per share.",
+    "zh_note": "就股票投资者而言，关注以相对于每股收益或每股资产较低价格买入股票的投资者。"
+  },
+  {
+    "word": "Bondholders",
+    "zh": "债券持有人",
+    "en_note": "Investors in an entity's securitized debt claims, such as commercial paper, notes, and bonds. Common types of bondholders include investment funds and institutional investors.",
+    "zh_note": "持有实体证券化债务请求权（如商业票据、票据和债券）的投资者，常见类型包括投资基金和机构投资者。"
+  },
+  {
+    "word": "Dilution",
+    "zh": "稀释",
+    "en_note": "An increase in the number of shares outstanding from share issuance that decreases the percentage of shares owned by existing shareholders.",
+    "zh_note": "因发行新股导致流通在外股份数增加，从而降低现有股东持股比例。"
+  },
+  {
+    "word": "Financial leverage",
+    "zh": "财务杠杆",
+    "en_note": "The use of debt in the capital structure. Measured using ratios such as operating income to operating income less interest expense, total assets to total equity, or debt to equity.",
+    "zh_note": "资本结构中使用债务的程度，可用营业收益/（营业收益－利息费用）、总资产/总权益或债务/权益等比率衡量。"
+  },
+  {
+    "word": "Independent directors",
+    "zh": "独立董事",
+    "en_note": "Members of a corporation's board of directors who do not have an employment or familial relationship with the company, nor do they have a relationship that would impair their independence such as an economic interest in a vendor or competitor of the company.",
+    "zh_note": "与公司不存在雇佣关系、亲属关系，且不存在会削弱其独立性的经济利益关系（如与供应商或竞争对手有关）的董事会成员。"
+  },
+  {
+    "word": "Inside directors",
+    "zh": "内部董事",
+    "en_note": "Members of a corporation's board of directors who are not independent. Typically, inside directors are employees or founders (and their family) of the company.",
+    "zh_note": "不具独立性的董事会成员，通常为公司雇员、创始人及其家属。"
+  },
+  {
+    "word": "Material",
+    "zh": "重大性",
+    "en_note": "(materiality) Refers to information that is decision-useful for a reasonable investor.",
+    "zh_note": "指对理性投资者决策有用的信息。"
+  },
+  {
+    "word": "Negative externalities",
+    "zh": "负外部性",
+    "en_note": "A cost to a third party because of the production or consumption of a good or service.",
+    "zh_note": "某种商品或服务的生产或消费给第三方带来的成本。"
+  },
+  {
+    "word": "Physical risks",
+    "zh": "物理风险",
+    "en_note": "Economic and financial losses from the increase in the severity and frequency of extreme weather due to climate change-for example, the loss of coastal real estate from a storm.",
+    "zh_note": "因气候变化导致极端天气强度和频率上升而产生的经济与金融损失，例如风暴造成沿海房地产损失。"
+  },
+  {
+    "word": "Private debtholders",
+    "zh": "私募债权人",
+    "en_note": "Investors in an entity's non-securitized debt claims, such as a loan or lease. The most common type of private debtholder is a bank.",
+    "zh_note": "持有实体非证券化债务请求权（如贷款或租赁）的投资者，最常见的是银行。"
+  },
+  {
+    "word": "Shareholder theory of corporate governance",
+    "zh": "公司治理的股东理论",
+    "en_note": "Espoused by Milton Friedman in his famous 1970 essay, the shareholder theory holds that the objective of a business is to increase profits and shareholder value.",
+    "zh_note": "由米尔顿·弗里德曼在 1970 年著名文章中提出，认为企业目标是提高利润和股东价值。"
+  },
+  {
+    "word": "Staggered board",
+    "zh": "交错董事会",
+    "en_note": "A structure of board elections in which only part of the board is elected simultaneously-for example, only one-third of the board may be up for election each year, so the board can be replaced over three years, not in one year if all seats were elected annually. This structure fosters greater continuity of board members but is an obstacle for shareholders seeking to effect change.",
+    "zh_note": "董事会分批改选的结构，例如每年只改选三分之一席位，因此董事会需三年而非一年才能全部更换；该结构有利于连续性，但会妨碍股东推动变革。"
+  },
+  {
+    "word": "Stakeholders",
+    "zh": "利益相关者",
+    "en_note": "Any party with an interest, financial or non-financial, in an entity or its actions.",
+    "zh_note": "对某一实体或其行为具有财务或非财务利益的任何一方。"
+  },
+  {
+    "word": "Stakeholder theory of corporate governance",
+    "zh": "公司治理的利益相关者理论",
+    "en_note": "An expansion of the shareholder theory of corporate governance under which the objective of a business is to maximize value for, and balance the interests of, a broad group of stakeholders, including shareholders, employees, society, and the non-human environment.",
+    "zh_note": "对股东理论的扩展，认为企业目标是为广泛利益相关者群体创造价值并平衡其利益，包括股东、员工、社会及非人类环境。"
+  },
+  {
+    "word": "Stranded assets",
+    "zh": "搁浅资产",
+    "en_note": "A resource that is no longer economically valuable owing to changes in demand, regulations, or availability of substitutes-for example, a newly discovered oil well that will not be brought into production.",
+    "zh_note": "由于需求、监管或替代品可得性变化而不再具有经济价值的资源，例如新发现但不会被投入生产的油井。"
+  },
+  {
+    "word": "Supervisory board",
+    "zh": "监事会",
+    "en_note": "In some jurisdictions, a corporation's board of directors is formally composed of a supervisory board and a management board. The supervisory board appoints and oversees the management board and often includes representatives of employees and other non-shareholder stakeholders.",
+    "zh_note": "在某些司法辖区，公司董事会正式由监事会和管理董事会构成；监事会任命并监督管理董事会，且常包含员工及其他非股东利益相关者代表。"
+  },
+  {
+    "word": "Transition risks",
+    "zh": "转型风险",
+    "en_note": "Economic and financial losses from the transition to a lower-carbon economy in response to climate change-for example, the abandonment of an oil well that is no longer economical.",
+    "zh_note": "在应对气候变化、向低碳经济转型过程中产生的经济与金融损失，例如因不再经济可行而被放弃的油井。"
   }
 ];
