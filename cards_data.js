@@ -3786,5 +3786,1793 @@ window.CARDS = [
     "zh": "转型风险",
     "en_note": "Economic and financial losses from the transition to a lower-carbon economy in response to climate change-for example, the abandonment of an oil well that is no longer economical.",
     "zh_note": "在应对气候变化、向低碳经济转型过程中产生的经济与金融损失，例如因不再经济可行而被放弃的油井。"
+  },
+  {
+    "word": "Capital restrictions",
+    "zh": "资本管制",
+    "en_note": "Controls placed on foreigners’ ability to own domestic assets and/or domestic residents’ ability to own foreign assets.",
+    "zh_note": "限制外国人持有本国资产或本国居民持有外国资产的政策。"
+  },
+  {
+    "word": "Common market",
+    "zh": "共同市场",
+    "en_note": "Level of economic integration that incorporates all aspects of the customs union and extends it by allowing free movement of factors of production among members.",
+    "zh_note": "在关税同盟基础上进一步实现生产要素自由流动的一体化形式。"
+  },
+  {
+    "word": "Customs union",
+    "zh": "关税同盟",
+    "en_note": "Extends the free trade area (FTA) by not only allowing free movement of goods and services among members, but also creating a common trade policy against nonmembers.",
+    "zh_note": "成员间货物服务自由流动，并对非成员实行统一对外贸易政策。"
+  },
+  {
+    "word": "Domestic content provisions",
+    "zh": "本地成分要求",
+    "en_note": "Stipulate that some percentage of the value added or components used in production should be of domestic origin.",
+    "zh_note": "要求产品的部分附加值或零部件必须来自本国。"
+  },
+  {
+    "word": "Economic union",
+    "zh": "经济联盟",
+    "en_note": "Incorporates all aspects of a common market and in addition requires common economic institutions and coordination of economic policies among members.",
+    "zh_note": "共同市场再加上共同经济机构与政策协调。"
+  },
+  {
+    "word": "Export subsidy",
+    "zh": "出口补贴",
+    "en_note": "Paid by the government to the firm when it exports a unit of a good that is being subsidized.",
+    "zh_note": "政府对出口补贴商品的企业按出口单位给予补贴。"
+  },
+  {
+    "word": "Free trade areas",
+    "zh": "自由贸易区",
+    "en_note": "One of the most prevalent forms of regional integration, in which all barriers to the flow of goods and services among members have been eliminated.",
+    "zh_note": "成员之间取消货物和服务流动壁垒的区域一体化形式。"
+  },
+  {
+    "word": "Import license",
+    "zh": "进口许可证",
+    "en_note": "Specifies the quantity of a good that can be imported into a country.",
+    "zh_note": "规定某种商品可进口数量的行政许可。"
+  },
+  {
+    "word": "Monetary union",
+    "zh": "货币联盟",
+    "en_note": "An economic union in which the members adopt a common currency.",
+    "zh_note": "经济联盟成员采用共同货币的安排。"
+  },
+  {
+    "word": "Quota rents",
+    "zh": "配额租金",
+    "en_note": "Profits that foreign producers can earn by raising the price of their goods higher than they would without a quota.",
+    "zh_note": "外国生产者因配额导致价格高于无配额时可获得的超额利润。"
+  },
+  {
+    "word": "Quotas",
+    "zh": "进口配额",
+    "en_note": "Government policies that restrict the quantity of a good that can be imported into a country, generally for a specified period of time.",
+    "zh_note": "政府在一定时期内限制某商品进口数量的政策。"
+  },
+  {
+    "word": "Small country",
+    "zh": "小国",
+    "en_note": "A country that is a price taker in the world market for a product and cannot influence the world market price.",
+    "zh_note": "在世界市场上是价格接受者，无法影响世界价格的国家。"
+  },
+  {
+    "word": "Tariffs",
+    "zh": "关税",
+    "en_note": "Taxes that a government levies on imported goods.",
+    "zh_note": "政府对进口商品征收的税。"
+  },
+  {
+    "word": "Trade creation",
+    "zh": "贸易创造",
+    "en_note": "When regional integration results in the replacement of higher cost domestic production by lower cost imports from other members.",
+    "zh_note": "区域一体化后以较低成本的成员国进口替代本国较高成本生产。"
+  },
+  {
+    "word": "Trade diversion",
+    "zh": "贸易转移",
+    "en_note": "When regional integration results in lower-cost imports from non-member countries being replaced with higher-cost imports from members.",
+    "zh_note": "区域一体化后以成员国较高成本进口替代非成员国较低成本进口。"
+  },
+  {
+    "word": "Bilateralism",
+    "zh": "双边主义",
+    "en_note": "The conduct of political, economic, financial, or cultural cooperation between two countries. Countries engaging in bilateralism may have relations with many different countries but in one-at-a-time agreements without multiple partners. Typically, countries exist on a spectrum between bilateralism and multilateralism.",
+    "zh_note": "两国之间以一对一方式开展政治、经济或金融合作。"
+  },
+  {
+    "word": "Black swan risk",
+    "zh": "黑天鹅风险",
+    "en_note": "An event that is rare and difficult to predict but has an important impact.",
+    "zh_note": "罕见、难预测但影响重大的事件风险。"
+  },
+  {
+    "word": "Cabotage",
+    "zh": "沿海/国内运输权",
+    "en_note": "The right to transport passengers or goods within a country by a foreign firm. Many countries—including those with multilateral trade agreements—impose restrictions on cabotage across transportation subsectors, meaning that shippers, airlines, and truck drivers are not allowed to transport goods and services within another country’s borders.",
+    "zh_note": "外国企业在一国内部运输客货的权利，常受限制。"
+  },
+  {
+    "word": "Cooperation",
+    "zh": "合作",
+    "en_note": "The process by which countries work together toward some shared goal or purpose. These goals may, and often do, vary widely—from strategic or military concerns, to economic influence, to cultural preferences.",
+    "zh_note": "国家围绕共同目标开展协作的过程。"
+  },
+  {
+    "word": "Cooperative country",
+    "zh": "合作型国家",
+    "en_note": "A country that engages and reciprocates in rules standardization; harmonization of tariffs; international agreements on trade, immigration, or regulation; and allowing the free flow of information, including technology transfer.",
+    "zh_note": "愿意在规则、关税、贸易和信息流动方面互相配合的国家。"
+  },
+  {
+    "word": "Event risk",
+    "zh": "事件风险",
+    "en_note": "Risk that evolves around set dates, such as elections, new legislation, or other date-driven milestones, such as holidays or political anniversaries, known in advance. Example: Brexit referendum.",
+    "zh_note": "围绕已知日期事件演变的风险，如选举或立法。"
+  },
+  {
+    "word": "Exogenous risk",
+    "zh": "外生风险",
+    "en_note": "A sudden or unanticipated risk that impacts either a country’s cooperative stance, the ability of non-state actors to globalize, or both. Examples include sudden uprisings, invasions, or the aftermath of natural disasters.",
+    "zh_note": "突发且难预期的外部风险，可能改变国家合作立场或全球化进程。"
+  },
+  {
+    "word": "Foreign direct investments (FDI)",
+    "zh": "外国直接投资",
+    "en_note": "Long-term investments in the productive capacity of a foreign country.",
+    "zh_note": "对外国生产能力进行的长期投资。"
+  },
+  {
+    "word": "Geophysical resource endowment",
+    "zh": "地球物理资源禀赋",
+    "en_note": "Includes such factors as livable geography and climate as well as access to food and water, which are necessary for sustainable growth. Geophysical resource endowment is highly unequal among countries.",
+    "zh_note": "包括地理、气候、食物和水等可持续增长所需自然条件。"
+  },
+  {
+    "word": "Geopolitics",
+    "zh": "地缘政治",
+    "en_note": "The study of how geography affects politics and international relations. These relations matter for investments because they contribute to important drivers of investment performance, including economic growth, business performance, market volatility, and transaction costs.",
+    "zh_note": "研究地理如何影响政治与国际关系，并进而影响投资表现。"
+  },
+  {
+    "word": "Globalization",
+    "zh": "全球化",
+    "en_note": "The process of interaction and integration among people, companies, and governments worldwide. It is marked by the spread of products, information, jobs, and culture across borders.",
+    "zh_note": "人员、企业和政府跨国互动与融合的过程。"
+  },
+  {
+    "word": "Groupthink",
+    "zh": "群体思维",
+    "en_note": "A behavioral bias that occurs when a team minimizes conflict and dissent in reaching and maintaining a consensus.",
+    "zh_note": "团队为维持共识而压制分歧和冲突的行为偏差。"
+  },
+  {
+    "word": "Hegemony",
+    "zh": "霸权",
+    "en_note": "Countries that are regional or even global leaders and use their political or economic influence of others to control resources.",
+    "zh_note": "一国凭借政治或经济影响力控制资源并主导他国。"
+  },
+  {
+    "word": "Institution",
+    "zh": "制度/机构",
+    "en_note": "An established organization or practice in a society or culture. An institution can be a formal structure, such as a university, organization, or process backed by law; or it can be informal, such as a custom or behavioral pattern important to society. Institutions can, but need not be, formed by national governments. Examples of institutions include non-governmental organizations, charities, religious customs, family units, the media, political parties, and educational practice.",
+    "zh_note": "社会中稳定形成的正式或非正式组织、规则或实践。"
+  },
+  {
+    "word": "Multilateralism",
+    "zh": "多边主义",
+    "en_note": "The conduct of countries who participate in mutually beneficial trade relationships and extensive rules harmonization. Private firms are fully integrated into global supply chains with multiple trade partners. Examples of multilateral countries include Germany and Singapore.",
+    "zh_note": "国家通过多边规则协调和互利贸易深度合作。"
+  },
+  {
+    "word": "Nationalism",
+    "zh": "民族主义",
+    "en_note": "The promotion of a country’s own economic interests to the exclusion or detriment of the interests of other nations. Nationalism is marked by limited economic and financial cooperation. These actors may focus on national production and sales, limited cross-border investment and capital flows, and restricted currency exchange.",
+    "zh_note": "优先本国经济利益、限制国际合作与跨境流动的取向。"
+  },
+  {
+    "word": "Non-cooperative country",
+    "zh": "非合作型国家",
+    "en_note": "A country with inconsistent and even arbitrary rules; restricted movement of goods, services, people, and capital across borders; retaliation; and limited technology exchange.",
+    "zh_note": "规则反复且任意，跨境流动受限、报复性强、技术交流少的国家。"
+  },
+  {
+    "word": "Non-state actors",
+    "zh": "非国家行为体",
+    "en_note": "Those that participate in global political, economic, or financial affairs but do not directly control national security or country resources. Examples of non-state actors are non-governmental organizations (NGOs), multinational companies, charities, and even influential individuals, such as business leaders or cultural icons.",
+    "zh_note": "参与全球事务但不直接控制国家安全和资源的主体。"
+  },
+  {
+    "word": "Portfolio investment flows",
+    "zh": "证券投资流动",
+    "en_note": "Short-term investments in foreign assets, such as stocks or bonds.",
+    "zh_note": "对外国股票、债券等资产的短期投资流动。"
+  },
+  {
+    "word": "Regionalism",
+    "zh": "区域主义",
+    "en_note": "In between the two extremes of bilateralism and multilateralism. In regionalism, a group of countries cooperate with one another. Both bilateralism and regionalism can be conducted at the exclusion of other groups. For example, regional blocs may agree to provide trade benefits to one another and increase barriers for those outside of that group.",
+    "zh_note": "介于双边与多边之间，由一组国家在区域内合作。"
+  },
+  {
+    "word": "Scenario analysis",
+    "zh": "情景分析",
+    "en_note": "A variation of the valuation process combining a base case with alternative outcomes, allowing the incorporation of more favorable or adverse scenarios in the valuation process.",
+    "zh_note": "在基准情景外加入乐观或悲观情景进行估值分析。"
+  },
+  {
+    "word": "Signpost",
+    "zh": "风险路标",
+    "en_note": "An indicator, market level, data piece, or event that signals a risk is becoming more or less likely. An analyst can think of signposts like a traffic light.",
+    "zh_note": "提示某项风险概率上升或下降的指标、数据或事件。"
+  },
+  {
+    "word": "Soft power",
+    "zh": "软实力",
+    "en_note": "A means of influencing another country’s decisions without force or coercion. Soft power can be built over time through actions, such as cultural programs, advertisement, travel grants, and university exchange.",
+    "zh_note": "不依靠强制而影响他国决策的能力。"
+  },
+  {
+    "word": "Standardization",
+    "zh": "标准化",
+    "en_note": "The process of creating protocols for the production, sale, transport, or use of a product or service. Standardization occurs when relevant parties agree to follow these protocols together. It helps support expanded economic and financial activities, such as trade and capital flows that support higher economic growth and standards of living, across borders.",
+    "zh_note": "共同制定并遵守产品或服务相关规则和协议的过程。"
+  },
+  {
+    "word": "State actors",
+    "zh": "国家行为体",
+    "en_note": "Typically national governments, political organizations, or country leaders that exert authority over a country’s national security and resources. The South African President, Sultan of Brunei, Malaysia’s Parliament, and the British Prime Minister are all examples of state actors.",
+    "zh_note": "掌控国家安全与资源的政府、政治组织或国家领导人。"
+  },
+  {
+    "word": "Thematic risks",
+    "zh": "主题风险",
+    "en_note": "Known risks that evolve and expand over a period of time. Climate change, pattern migration, the rise of populist forces, and the ongoing threat of terrorism fall into this category.",
+    "zh_note": "已知且会在较长时期内持续演变扩大的风险。"
+  },
+  {
+    "word": "Velocity",
+    "zh": "冲击速度",
+    "en_note": "The pace at which geopolitical risk impacts an investor portfolio.",
+    "zh_note": "地缘政治风险影响投资组合的快慢。"
+  },
+  {
+    "word": "Base rates",
+    "zh": "基准利率",
+    "en_note": "The reference rate on which a bank bases lending rates to all other customers.",
+    "zh_note": "银行据此向其他客户确定贷款利率的参考利率。"
+  },
+  {
+    "word": "Bond market vigilantes",
+    "zh": "债券市场义警",
+    "en_note": "Bond market participants who might reduce their demand for long-term bonds, thus pushing up their yields.",
+    "zh_note": "通过抛售长期债券推高收益率以约束政策的市场参与者。"
+  },
+  {
+    "word": "Contractionary",
+    "zh": "紧缩性的",
+    "en_note": "Tending to cause the real economy to contract.",
+    "zh_note": "倾向于使实体经济收缩。"
+  },
+  {
+    "word": "Deflation",
+    "zh": "通货紧缩",
+    "en_note": "Negative inflation.",
+    "zh_note": "负通胀，即总体价格水平下降。"
+  },
+  {
+    "word": "Demand shock",
+    "zh": "需求冲击",
+    "en_note": "A typically unexpected disturbance to demand, such as an unexpected interruption in trade or transportation.",
+    "zh_note": "通常意外发生的需求扰动，如贸易或运输中断。"
+  },
+  {
+    "word": "Expansionary",
+    "zh": "扩张性的",
+    "en_note": "Tending to cause the real economy to grow.",
+    "zh_note": "倾向于推动实体经济增长。"
+  },
+  {
+    "word": "Federal funds rate",
+    "zh": "联邦基金利率",
+    "en_note": "The US interbank lending rate on overnight borrowings of reserves.",
+    "zh_note": "美国银行间准备金隔夜拆借利率。"
+  },
+  {
+    "word": "Also known as Fed Funds rate.",
+    "zh": "又称联邦基金利率",
+    "en_note": "Fed funds rate",
+    "zh_note": "Fed Funds rate 的另一种表述。"
+  },
+  {
+    "word": "The US interbank lending rate on overnight borrowings of reserves.",
+    "zh": "美国隔夜准备金拆借利率",
+    "en_note": "Fiat money",
+    "zh_note": "此条目实际对应联邦基金利率的定义。"
+  },
+  {
+    "word": "Money that is not convertible into any other commodity.",
+    "zh": "法定货币",
+    "en_note": "Foreign currency reserves Holding by the central bank of non-domestic currency deposits and non-domestic bonds.",
+    "zh_note": "不能兑换成其他商品、由政府规定为法偿的货币。"
+  },
+  {
+    "word": "Gilts",
+    "zh": "英国国债",
+    "en_note": "Bonds issued by the UK government.",
+    "zh_note": "由英国政府发行的债券。"
+  },
+  {
+    "word": "Gold standard",
+    "zh": "金本位",
+    "en_note": "With respect to a currency, if a currency is on the gold standard a given amount can be converted into a prespecified amount of gold.",
+    "zh_note": "货币可按预定比例兑换为黄金的制度。"
+  },
+  {
+    "word": "Inflation reports",
+    "zh": "通胀报告",
+    "en_note": "A type of economic publication put out by many central banks.",
+    "zh_note": "许多央行发布的有关通胀形势的经济报告。"
+  },
+  {
+    "word": "Legal tender",
+    "zh": "法定货币/法偿",
+    "en_note": "Something that must be accepted when offered in exchange for goods and services.",
+    "zh_note": "用于交换商品和服务时必须被接受的支付手段。"
+  },
+  {
+    "word": "Lender of last resort",
+    "zh": "最后贷款人",
+    "en_note": "An entity willing to lend money when no other entity is ready to do so.",
+    "zh_note": "在其他机构不愿放贷时仍愿提供资金的机构。"
+  },
+  {
+    "word": "Liquidity trap",
+    "zh": "流动性陷阱",
+    "en_note": "A condition in which the demand for money becomes infinitely elastic (horizontal demand curve) so that injections of money into the economy will not lower interest rates or affect real activity.",
+    "zh_note": "货币需求对利率无限弹性，增发货币也难再压低利率或刺激经济。"
+  },
+  {
+    "word": "Monetary transmission mechanism",
+    "zh": "货币传导机制",
+    "en_note": "The process whereby a central bank’s interest rate gets transmitted through the economy and ultimately affects the rate of increase of prices.",
+    "zh_note": "央行利率如何传导至经济并最终影响物价的过程。"
+  },
+  {
+    "word": "Neutral rate of interest",
+    "zh": "中性利率",
+    "en_note": "The rate of interest that neither spurs on nor slows down the underlying economy.",
+    "zh_note": "既不刺激也不抑制经济的利率水平。"
+  },
+  {
+    "word": "Official interest rate",
+    "zh": "官方利率",
+    "en_note": "An interest rate that a central bank sets and announces publicly; normally the rate at which it is willing to lend money to the commercial banks. Also called official policy rate or policy rate.",
+    "zh_note": "央行公开宣布的政策利率，通常为向商业银行放贷的利率。"
+  },
+  {
+    "word": "Official policy rate",
+    "zh": "官方政策利率",
+    "en_note": "An interest rate that a central bank sets and announces publicly; normally the rate at which it is willing to lend money to the commercial banks.",
+    "zh_note": "央行公开设定并宣布的政策利率。"
+  },
+  {
+    "word": "Open market operations",
+    "zh": "公开市场操作",
+    "en_note": "The purchase or sale of bonds by the national central bank to implement monetary policy. The bonds traded are usually sovereign bonds issued by the national government.",
+    "zh_note": "央行买卖债券以实施货币政策。"
+  },
+  {
+    "word": "Operational independence",
+    "zh": "操作独立性",
+    "en_note": "A bank’s ability to execute monetary policy and set interest rates in the way it thought would best meet the inflation target.",
+    "zh_note": "央行为实现通胀目标而独立执行政策和设定利率的能力。"
+  },
+  {
+    "word": "Payments system",
+    "zh": "支付系统",
+    "en_note": "The system for the transfer of money.",
+    "zh_note": "资金转移与结算的系统。"
+  },
+  {
+    "word": "Policy rate",
+    "zh": "政策利率",
+    "en_note": "An interest rate that a central bank sets and announces publicly; normally the rate at which it is willing to lend money to the commercial banks.",
+    "zh_note": "央行设定并公布的基准政策利率。"
+  },
+  {
+    "word": "Price stability",
+    "zh": "价格稳定",
+    "en_note": "In economics, refers to an inflation rate that is low on average and not subject to wide fluctuation.",
+    "zh_note": "平均通胀率较低且波动不大的状态。"
+  },
+  {
+    "word": "Quantitative easing",
+    "zh": "量化宽松",
+    "en_note": "An expansionary monetary policy based on aggressive open market purchase operations.",
+    "zh_note": "以大规模公开市场购买为基础的扩张性货币政策。"
+  },
+  {
+    "word": "Refinancing rate",
+    "zh": "再融资利率",
+    "en_note": "A type of central bank policy rate.",
+    "zh_note": "央行政策利率的一种。"
+  },
+  {
+    "word": "Repurchase agreement (Repo)",
+    "zh": "回购协议",
+    "en_note": "A form of collateralized loan involving the sale of a security with a simultaneous agreement by the seller to buy back the same security from the purchaser at an agreed-on price and future date. The party who sells the security at the inception of the repurchase agreement and buys it back at maturity is borrowing money from the other party, and the security sold and subsequently repurchased represents the collateral.",
+    "zh_note": "以证券作抵押并约定未来按约定价格回购的融资交易。"
+  },
+  {
+    "word": "Supply shock",
+    "zh": "供给冲击",
+    "en_note": "A typically unexpected disturbance to supply.",
+    "zh_note": "通常意外发生的供给扰动。"
+  },
+  {
+    "word": "Target independent",
+    "zh": "目标独立性",
+    "en_note": "A bank’s ability to determine the definition of inflation that they target, the rate of inflation that they target, and the horizon over which the target is to be achieved.",
+    "zh_note": "央行可自行决定通胀目标定义、水平及达成期限。"
+  },
+  {
+    "word": "Two-week repo rate",
+    "zh": "两周回购利率",
+    "en_note": "The interest rate on a two-week repurchase agreement; may be used as a policy rate by a central bank.",
+    "zh_note": "两周期限回购协议利率，可作为央行政策利率。"
+  },
+  {
+    "word": "Action lag",
+    "zh": "行动时滞",
+    "en_note": "Delay from policy decisions to implementation.",
+    "zh_note": "从政策决策到实际执行的延迟。"
+  },
+  {
+    "word": "Automatic stabilizer",
+    "zh": "自动稳定器",
+    "en_note": "A countercyclical factor that automatically comes into play as an economy slows and unemployment rises.",
+    "zh_note": "经济放缓和失业上升时自动发挥逆周期作用的因素。"
+  },
+  {
+    "word": "Balanced",
+    "zh": "预算平衡",
+    "en_note": "With respect to a government budget, one in which spending and revenues (taxes) are equal.",
+    "zh_note": "政府预算中支出与收入相等。"
+  },
+  {
+    "word": "Budget surplus/deficit",
+    "zh": "预算盈余/赤字",
+    "en_note": "The difference between government revenue and expenditure for a stated fixed period of time.",
+    "zh_note": "一定时期内政府收入与支出的差额。"
+  },
+  {
+    "word": "Capital expenditure",
+    "zh": "资本支出",
+    "en_note": "Expenditure on physical capital (fixed assets).",
+    "zh_note": "用于购置或改善固定资产的支出。"
+  },
+  {
+    "word": "Current government spending",
+    "zh": "政府经常性支出",
+    "en_note": "With respect to government expenditures, spending on goods and services that are provided on a regular, recurring basis including health, education, and defense.",
+    "zh_note": "政府在医疗、教育、国防等方面持续发生的经常支出。"
+  },
+  {
+    "word": "Direct taxes",
+    "zh": "直接税",
+    "en_note": "Taxes levied directly on income, wealth, and corporate profits.",
+    "zh_note": "直接对收入、财富和企业利润征收的税。"
+  },
+  {
+    "word": "Economic stabilization",
+    "zh": "经济稳定",
+    "en_note": "Reduction of the magnitude of economic fluctuations.",
+    "zh_note": "降低经济波动幅度。"
+  },
+  {
+    "word": "Fiscal multiplier",
+    "zh": "财政乘数",
+    "en_note": "The ratio of a change in national income to a change in government spending.",
+    "zh_note": "国民收入变化与政府支出变化之比。"
+  },
+  {
+    "word": "Household",
+    "zh": "家庭部门",
+    "en_note": "A person or a group of people living in the same residence, taken as a basic unit in economic analysis.",
+    "zh_note": "共同居住并作为经济分析基本单位的个人或群体。"
+  },
+  {
+    "word": "Impact lag",
+    "zh": "影响时滞",
+    "en_note": "The lag associated with the result of actions affecting the economy with delay.",
+    "zh_note": "政策措施对经济产生结果所需的延迟。"
+  },
+  {
+    "word": "Indirect taxes",
+    "zh": "间接税",
+    "en_note": "Taxes such as taxes on spending, as opposed to direct taxes.",
+    "zh_note": "如消费税等对支出征收的税。"
+  },
+  {
+    "word": "Keynesians",
+    "zh": "凯恩斯学派",
+    "en_note": "Economists who believe that fiscal policy can have powerful effects on aggregate demand, output, and employment when there is substantial spare capacity in an economy.",
+    "zh_note": "认为在产能闲置较大时财政政策能显著影响总需求与就业的经济学家。"
+  },
+  {
+    "word": "Net tax rate",
+    "zh": "净税率",
+    "en_note": "The tax rate net of transfer payments.",
+    "zh_note": "扣除转移支付后的税率。"
+  },
+  {
+    "word": "Recognition lag",
+    "zh": "识别时滞",
+    "en_note": "The lag in government response to an economic problem resulting from the delay in confirming a change in the state of the economy.",
+    "zh_note": "政府确认经济状况变化并作出反应前的延迟。"
+  },
+  {
+    "word": "Ricardian equivalence",
+    "zh": "李嘉图等价",
+    "en_note": "An economic theory that implies that it makes no difference whether a government finances a deficit by increasing taxes or issuing debt.",
+    "zh_note": "政府以增税还是发债融资赤字在理论上对总需求无差别。"
+  },
+  {
+    "word": "Structural budget deficit",
+    "zh": "结构性预算赤字",
+    "en_note": "Also known as the cyclically adjusted budget deficit. The deficit that would exist if the economy was at full employment (or full potential output).",
+    "zh_note": "经济处于充分就业时仍会存在的预算赤字。"
+  },
+  {
+    "word": "Transfer payments",
+    "zh": "转移支付",
+    "en_note": "Welfare payments made through the social security system that exist to provide a basic minimum level of income for low-income households.",
+    "zh_note": "通过社保体系向低收入家庭提供的福利性支付。"
+  },
+  {
+    "word": "Boom",
+    "zh": "繁荣",
+    "en_note": "An expansionary phase characterized by economic growth “testing the limits” of the economy.",
+    "zh_note": "经济增长接近或触及产能上限的扩张阶段。"
+  },
+  {
+    "word": "Business cycles",
+    "zh": "商业周期",
+    "en_note": "Are recurrent expansions and contractions in economic activity affecting broad segments of the economy.",
+    "zh_note": "经济活动在广泛领域中反复出现的扩张与收缩。"
+  },
+  {
+    "word": "Classical cycle",
+    "zh": "经典周期",
+    "en_note": "Refers to fluctuations in the level of economic activity when measured by GDP in volume terms.",
+    "zh_note": "以实际 GDP 水平波动衡量的经济周期。"
+  },
+  {
+    "word": "Coincident economic indicators",
+    "zh": "同步经济指标",
+    "en_note": "Turning points that are usually close to those of the overall economy; they are believed to have value for identifying the economy’s present state.",
+    "zh_note": "拐点与整体经济接近、用于识别当前经济状态的指标。"
+  },
+  {
+    "word": "Contraction",
+    "zh": "收缩",
+    "en_note": "The period of a business cycle after the peak and before the trough; often called a recession or, if exceptionally severe, called a depression.",
+    "zh_note": "商业周期中峰值到谷底之间的阶段，即衰退期。"
+  },
+  {
+    "word": "Diffusion index",
+    "zh": "扩散指数",
+    "en_note": "Reflects the proportion of the index’s components that are moving in a pattern consistent with the overall index.",
+    "zh_note": "反映指数成分中与总体走势一致者所占比例。"
+  },
+  {
+    "word": "Economic indicators",
+    "zh": "经济指标",
+    "en_note": "Economic statistics provided by government and established private organizations that contain information on an economy’s recent past activity or its current or future position in the business cycle.",
+    "zh_note": "反映经济近期、当前或未来周期位置的统计数据。"
+  },
+  {
+    "word": "Expansion",
+    "zh": "扩张",
+    "en_note": "The period of a business cycle after its lowest point and before its highest point.",
+    "zh_note": "商业周期中低点到高点之间的阶段。"
+  },
+  {
+    "word": "Growth cycle",
+    "zh": "增长周期",
+    "en_note": "Refers to fluctuations in economic activity around the long-term potential trend growth level, focusing on how much actual economic activity is below or above trend growth in economic activity.",
+    "zh_note": "围绕长期潜在增长趋势的经济活动波动。"
+  },
+  {
+    "word": "Growth rate cycle",
+    "zh": "增长率周期",
+    "en_note": "Refers to fluctuations in the growth rate of economic activity.",
+    "zh_note": "经济活动增长率本身的波动。"
+  },
+  {
+    "word": "Lagging economic indicators",
+    "zh": "滞后经济指标",
+    "en_note": "Turning points that take place later than those of the overall economy; they are believed to have value in identifying the economy’s past condition.",
+    "zh_note": "拐点晚于整体经济、用于识别过去状况的指标。"
+  },
+  {
+    "word": "Leading economic indicators",
+    "zh": "领先经济指标",
+    "en_note": "Turning points that usually precede those of the overall economy; they are believed to have value for predicting the economy’s future state, usually near-term.",
+    "zh_note": "拐点先于整体经济、用于预测近期走势的指标。"
+  },
+  {
+    "word": "Average revenue (AR)",
+    "zh": "平均收益",
+    "en_note": "Total revenue divided by quantity sold.",
+    "zh_note": "总收益除以销售数量。"
+  },
+  {
+    "word": "Breakeven point",
+    "zh": "盈亏平衡点",
+    "en_note": "Represents the price of the underlying in a derivative contract in which the profit to both counterparties would be zero.",
+    "zh_note": "在衍生品合约中使双方利润都为零的标的价格。"
+  },
+  {
+    "word": "Cartel",
+    "zh": "卡特尔",
+    "en_note": "Participants in collusive agreements that are made openly and formally.",
+    "zh_note": "企业公开正式达成的串谋协议组织。"
+  },
+  {
+    "word": "Cournot assumption",
+    "zh": "古诺假设",
+    "en_note": "Assumption in which each firm determines its profit-maximizing production level assuming that the other firms’ output will not change.",
+    "zh_note": "每家企业在假定其他企业产量不变时选择自身最优产量。"
+  },
+  {
+    "word": "Decreasing returns to scale",
+    "zh": "规模报酬递减",
+    "en_note": "When a production process leads to increases in output that are proportionately smaller than the increase in inputs.",
+    "zh_note": "投入增加时，产出增幅小于投入增幅。"
+  },
+  {
+    "word": "Diseconomies of scale",
+    "zh": "规模不经济",
+    "en_note": "Increase in cost per unit resulting from increased production.",
+    "zh_note": "产量增加反而导致单位成本上升。"
+  },
+  {
+    "word": "Economies of scale",
+    "zh": "规模经济",
+    "en_note": "A decline in costs per unit as output grows, generally resulting from having fixed costs in the cost structure that are spread over more units of output.",
+    "zh_note": "产量扩大使单位成本下降。"
+  },
+  {
+    "word": "Game theory",
+    "zh": "博弈论",
+    "en_note": "The set of tools decision makers use to incorporate responses by rival decision makers into their strategies.",
+    "zh_note": "将竞争对手反应纳入决策策略的一组分析工具。"
+  },
+  {
+    "word": "Increasing returns to scale",
+    "zh": "规模报酬递增",
+    "en_note": "When a production process leads to increases in output that are proportionately larger than the increase in inputs.",
+    "zh_note": "投入增加时，产出增幅大于投入增幅。"
+  },
+  {
+    "word": "Long-run average total cost",
+    "zh": "长期平均总成本",
+    "en_note": "The curve describing average total cost when no costs are considered fixed.",
+    "zh_note": "所有成本均可变时的平均总成本曲线。"
+  },
+  {
+    "word": "Minimum efficient scale",
+    "zh": "最小有效规模",
+    "en_note": "The smallest output that a firm can produce such that its long-run average total cost is minimized.",
+    "zh_note": "使长期平均总成本最低的最小产量。"
+  },
+  {
+    "word": "Monopolistic competition",
+    "zh": "垄断竞争",
+    "en_note": "Highly competitive form of imperfect competition; the competitive characteristic is a notably large number of firms, while the monopoly aspect is the result of product differentiation.",
+    "zh_note": "企业众多且产品差异化的高度竞争性不完全竞争市场。"
+  },
+  {
+    "word": "Monopoly",
+    "zh": "垄断",
+    "en_note": "In pure monopoly markets, there are no substitutes for the given product or service. There is a single seller, which exercises considerable power over pricing and output decisions.",
+    "zh_note": "无近似替代品、单一卖方拥有较强定价和产量决定权的市场。"
+  },
+  {
+    "word": "Nash equilibrium",
+    "zh": "纳什均衡",
+    "en_note": "When two or more participants in a non-coop-erative game have no incentive to deviate from their respective equilibrium strategies given their opponent’s strategies.",
+    "zh_note": "在给定他人策略下，各参与者都无激励偏离自身均衡策略。"
+  },
+  {
+    "word": "Oligopoly",
+    "zh": "寡头垄断",
+    "en_note": "Market structure with a relatively small number of firms supplying the market.",
+    "zh_note": "由少数企业供给市场的结构。"
+  },
+  {
+    "word": "Perfect competition",
+    "zh": "完全竞争",
+    "en_note": "A market structure in which the individual firm has virtually no impact on market price, because it is assumed to be a very small seller among a very large number of firms selling essentially identical products.",
+    "zh_note": "企业众多、产品同质、单个企业对价格几乎无影响的市场。"
+  },
+  {
+    "word": "Price takers",
+    "zh": "价格接受者",
+    "en_note": "Producers that must accept whatever price the market dictates.",
+    "zh_note": "必须接受市场价格而无定价权的生产者。"
+  },
+  {
+    "word": "Short-run average total cost",
+    "zh": "短期平均总成本",
+    "en_note": "The curve describing average total cost when some costs are considered fixed.",
+    "zh_note": "部分成本固定时的平均总成本曲线。"
+  },
+  {
+    "word": "Shutdown point",
+    "zh": "停产点",
+    "en_note": "The point at which average revenue is equal to the firm’s average variable cost.",
+    "zh_note": "平均收益等于平均可变成本的点。"
+  },
+  {
+    "word": "Stackelberg model",
+    "zh": "斯塔克尔伯格模型",
+    "en_note": "A prominent model of strategic decision making in which firms are assumed to make their decisions sequentially.",
+    "zh_note": "企业按顺序作出战略决策的模型。"
+  },
+  {
+    "word": "Discount factor",
+    "zh": "贴现因子",
+    "en_note": "The price equivalent of a zero rate. Also may be stated as the present value of a currency unit on a future date.",
+    "zh_note": "零利率的价格等价物，也可视为未来一单位货币的现值。"
+  },
+  {
+    "word": "Forward rate agreement (FRA)",
+    "zh": "远期利率协议",
+    "en_note": "An OTC derivatives contract in which counterparties agree to apply a specific interest rate to a future time period.",
+    "zh_note": "交易双方约定未来某一期间适用特定利率的场外衍生品。"
+  },
+  {
+    "word": "Implied forward rate",
+    "zh": "隐含远期利率",
+    "en_note": "An interest rate or yield over a future period implied by the current term structure of interest",
+    "zh_note": "由当前期限结构推导出的未来期间利率。"
+  },
+  {
+    "word": "Carrying",
+    "zh": "持有",
+    "en_note": "Investing and holding an asset for a period of time.",
+    "zh_note": "对资产进行投资并持有一段时间。"
+  },
+  {
+    "word": "Convenience yield",
+    "zh": "便利收益",
+    "en_note": "A non-cash benefit of holding a physical commodity versus a derivative.",
+    "zh_note": "持有实物商品相对于持有其衍生品的非现金收益。"
+  },
+  {
+    "word": "Cost of carry",
+    "zh": "持有成本",
+    "en_note": "The net of the costs and benefits related to owning an underlying asset for a specific period.",
+    "zh_note": "持有标的资产期间相关成本与收益的净额。"
+  },
+  {
+    "word": "Replication",
+    "zh": "复制",
+    "en_note": "A strategy in which a derivative’s cash flow stream may be recreated using a combination of long or short positions in an underlying asset and borrowing or lending cash.",
+    "zh_note": "用标的头寸加借贷现金重建衍生品现金流的策略。"
+  },
+  {
+    "word": "Basis risk",
+    "zh": "基差风险",
+    "en_note": "The possibility that the expected value of a derivative differs unexpectedly from that of the underlying.",
+    "zh_note": "衍生品价值与标的价值关系意外偏离的风险。"
+  },
+  {
+    "word": "Cash flow hedge",
+    "zh": "现金流套期",
+    "en_note": "Refers to a specific hedge accounting classification in which a derivative is designated as absorbing the variable cash flow of a floating-rate asset or liability, such as foreign exchange, interest rates, or commodities.",
+    "zh_note": "以衍生品对冲浮动现金流风险的套期会计分类。"
+  },
+  {
+    "word": "Fair value hedge",
+    "zh": "公允价值套期",
+    "en_note": "Refers to a specific hedge accounting designation that applies when a derivative is deemed to offset the fluctuation in fair value of an asset or liability.",
+    "zh_note": "以衍生品对冲资产或负债公允价值波动的套期会计指定。"
+  },
+  {
+    "word": "Hedge accounting",
+    "zh": "套期会计",
+    "en_note": "Accounting standard(s) that allow an issuer to offset a hedging instrument (usually a derivative) against a hedged transaction or balance sheet item to reduce financial statement volatility.",
+    "zh_note": "允许用套期工具抵销被套期项目影响、降低报表波动的会计规则。"
+  },
+  {
+    "word": "Liquidity risk",
+    "zh": "流动性风险",
+    "en_note": "The risk that an investment may not be readily sold at its true value.",
+    "zh_note": "投资可能无法按其真实价值迅速卖出的风险。"
+  },
+  {
+    "word": "Net investment hedge",
+    "zh": "净投资套期",
+    "en_note": "Refers to a specific hedge accounting designation that applies when either a foreign currency bond or a derivative, such as an FX swap or forward, is used to offset the exchange rate risk of the equity of a foreign operation.",
+    "zh_note": "用外币债券或衍生品对冲境外经营净投资汇率风险。"
+  },
+  {
+    "word": "Structured notes",
+    "zh": "结构性票据",
+    "en_note": "A broad category of securities that incorporate the features of debt instruments and one or more embedded derivatives designed to achieve a particular issuer or investor objective.",
+    "zh_note": "结合债务工具与嵌入式衍生品特征的证券。"
+  },
+  {
+    "word": "Systemic risk",
+    "zh": "系统性风险",
+    "en_note": "Refers to risks supervisory authorities believe are likely to have broad impact across the financial market infrastructure and affect a wide swath of market participants.",
+    "zh_note": "可能广泛冲击金融市场基础设施及大量参与者的风险。"
+  },
+  {
+    "word": "American options",
+    "zh": "美式期权",
+    "en_note": "Options that may be exercised at any time from contract inception until maturity.",
+    "zh_note": "自合约生效至到期前任何时点都可行权的期权。"
+  },
+  {
+    "word": "At-the-money",
+    "zh": "平值",
+    "en_note": "Describes a unique situation in which the price of the underlying is equal to an option’s exercise price. Like an out-of-the-money option, the intrinsic value is zero.",
+    "zh_note": "标的价格等于执行价，内在价值为零。"
+  },
+  {
+    "word": "Call option",
+    "zh": "看涨期权",
+    "en_note": "The right to buy an underlying.",
+    "zh_note": "赋予持有人买入标的权利的期权。"
+  },
+  {
+    "word": "CDS credit spread",
+    "zh": "CDS 信用利差",
+    "en_note": "Reflects the credit spread of a credit default swap (CDS) derivative contract. As with cash bonds, CDS credit spreads depend on the probability of default (POD) and the loss given default (LGD).",
+    "zh_note": "信用违约互换合约反映的信用风险补偿水平。"
+  },
+  {
+    "word": "Circuit breaker",
+    "zh": "熔断机制",
+    "en_note": "A pause in intraday trading for a brief period if a price limit is reached.",
+    "zh_note": "价格触及限制时暂停日内交易的机制。"
+  },
+  {
+    "word": "Credit event",
+    "zh": "信用事件",
+    "en_note": "An occurrence that triggers the settlement of a CDS contract, including failure to make a debt payment, debt restructuring, or a bankruptcy filing.",
+    "zh_note": "触发 CDS 结算的事件，如违约、重组或破产。"
+  },
+  {
+    "word": "Daily settlement",
+    "zh": "每日结算",
+    "en_note": "A specific process of mark-to-market by a central clearing party in which the profits and losses of all counterparties to derivatives contracts are determined using settlement prices for each contract.",
+    "zh_note": "中央清算方按结算价逐日确认衍生品盈亏的流程。"
+  },
+  {
+    "word": "European options",
+    "zh": "欧式期权",
+    "en_note": "Options that may be exercised only at contract maturity.",
+    "zh_note": "仅可在到期日行权的期权。"
+  },
+  {
+    "word": "Exercise",
+    "zh": "行权",
+    "en_note": "The decision to transact the underlying by an option holder.",
+    "zh_note": "期权持有人决定按约定交易标的。"
+  },
+  {
+    "word": "Exercise price",
+    "zh": "执行价格",
+    "en_note": "The pre-agreed execution price specified in an option contract. Sometimes, this price is referred to as the strike price.",
+    "zh_note": "期权合约预先约定的交易价格。"
+  },
+  {
+    "word": "Fixed-rate payer",
+    "zh": "固定利率支付方",
+    "en_note": "The counterparty paying fixed cash flows in a swap contract. May also be referred to as the floating-rate receiver.",
+    "zh_note": "互换中支付固定现金流的一方。"
+  },
+  {
+    "word": "Floating-rate payer",
+    "zh": "浮动利率支付方",
+    "en_note": "The counterparty paying the variable cash flows in a swap contract. May also be referred to as the fixed-rate receiver.",
+    "zh_note": "互换中支付浮动现金流的一方。"
+  },
+  {
+    "word": "Forward price",
+    "zh": "远期价格",
+    "en_note": "Represents the price agreed upon in a forward contract to be exchanged at the contract’s maturity date, T. This price is shown in equations as F0(T).",
+    "zh_note": "远期合约中约定在到期日交换的价格。"
+  },
+  {
+    "word": "Futures contract",
+    "zh": "期货合约",
+    "en_note": "A variation of a forward contract that has essentially the same basic definition but with some additional features, such as a clearinghouse guarantee against credit losses, a daily settlement of gains and losses, and an organized electronic or floor trading facility.",
+    "zh_note": "标准化远期合约，具有清算所担保和逐日结算等特征。"
+  },
+  {
+    "word": "Futures margin account",
+    "zh": "期货保证金账户",
+    "en_note": "An account held by an exchange clearinghouse for each derivatives counterparty. The funds in such an account are used to ensure that counterparties do not default on their contract obligation.",
+    "zh_note": "清算所为交易双方设立、用于防范违约的账户。"
+  },
+  {
+    "word": "Futures price",
+    "zh": "期货价格",
+    "en_note": "The pre-agreed price at which a futures contract buyer (seller) agrees to pay (receive) for the underlying at the maturity date of the futures contract.",
+    "zh_note": "期货买卖双方约定在到期日交易标的的价格。"
+  },
+  {
+    "word": "Initial margin",
+    "zh": "初始保证金",
+    "en_note": "The ratio of the price of collateral to the value of cash exchanged in a repo; a value over 1.0 or 100% indicates overcollateralization.",
+    "zh_note": "交易开始时必须缴纳的保证金水平。"
+  },
+  {
+    "word": "In-the-money",
+    "zh": "实值",
+    "en_note": "Describes an option with a positive intrinsic value.",
+    "zh_note": "具有正内在价值的期权状态。"
+  },
+  {
+    "word": "Intrinsic value",
+    "zh": "内在价值",
+    "en_note": "The amount gained (per unit) by an option buyer if an option is exercised at any given point in time. May be referred to as the exercise value of the option.",
+    "zh_note": "期权立即行权时买方每单位可获得的价值。"
+  },
+  {
+    "word": "Linear derivatives",
+    "zh": "线性衍生品",
+    "en_note": "Firm commitment derivative contracts in which the contract’s payoff/profit function is linear with respect to the price of the underlying.",
+    "zh_note": "收益/利润对标的价格呈线性关系的坚定承诺类衍生品。"
+  },
+  {
+    "word": "Maintenance margin",
+    "zh": "维持保证金",
+    "en_note": "Minimum balance set below the initial margin that each contract buyer and seller must hold in the futures margin account from trade initiation until final settlement at maturity.",
+    "zh_note": "低于初始保证金的最低账户余额要求。"
+  },
+  {
+    "word": "Margin call",
+    "zh": "追加保证金通知",
+    "en_note": "Request to a derivatives contract counterparty to immediately deposit funds to return the futures margin account balance to the initial margin.",
+    "zh_note": "要求对手方立即补足资金至初始保证金水平的通知。"
+  },
+  {
+    "word": "Mark to market (MTM)",
+    "zh": "按市值计价",
+    "en_note": "The practice in which a central clearing party assigns profits and losses to counterparties to derivative contracts. In exchange-traded markets, this practice takes place daily and is often referred to as daily settlement.",
+    "zh_note": "清算方按市场价格确认衍生品盈亏的做法。"
+  },
+  {
+    "word": "Non-linear derivatives",
+    "zh": "非线性衍生品",
+    "en_note": "Derivatives, such as options or other contingent claims, with payoff/profit profiles that are non-linear (asymmetric) with respect to the price of the underlying.",
+    "zh_note": "如期权等收益对标的价格呈非线性关系的衍生品。"
+  },
+  {
+    "word": "Open interest",
+    "zh": "未平仓合约数",
+    "en_note": "The number of outstanding contracts.",
+    "zh_note": "尚未了结的合约数量。"
+  },
+  {
+    "word": "Option premium",
+    "zh": "期权费",
+    "en_note": "An amount that is paid upfront from the option buyer to the option seller. Reflects the value of the option buyer’s right to exercise in the future.",
+    "zh_note": "期权买方向卖方预先支付的价格。"
+  },
+  {
+    "word": "Out-of-the-money",
+    "zh": "虚值",
+    "en_note": "Describes an option with zero intrinsic value because the option buyer would not rationally exercise the option. An example of such would be the case in which the price of the underlying is less than the option’s exercise price for a call option.",
+    "zh_note": "内在价值为零、理性上不会立即行权的期权状态。"
+  },
+  {
+    "word": "Price limits",
+    "zh": "涨跌停限制",
+    "en_note": "Establish a band relative to the previous day’s settlement price within which all trades must occur.",
+    "zh_note": "规定交易价格必须落在相对前一日结算价的区间内。"
+  },
+  {
+    "word": "Put option",
+    "zh": "看跌期权",
+    "en_note": "The right to sell an underlying.",
+    "zh_note": "赋予持有人卖出标的权利的期权。"
+  },
+  {
+    "word": "Settlement price",
+    "zh": "结算价",
+    "en_note": "The price determined by an exchange’s clearinghouse in the daily settlement of the mark-to-market process. The price reflects an average of the final futures trades of the day.",
+    "zh_note": "交易所清算所在逐日盯市中确定的价格。"
+  },
+  {
+    "word": "Swap rate",
+    "zh": "互换利率",
+    "en_note": "The fixed rate to be paid by the fixed-rate payer specified in a swap contract.",
+    "zh_note": "互换合约中固定利率支付方支付的固定利率。"
+  },
+  {
+    "word": "Time value",
+    "zh": "时间价值",
+    "en_note": "The difference between an option’s premium and its intrinsic value.",
+    "zh_note": "期权费减去内在价值后的部分。"
+  },
+  {
+    "word": "Variation margin",
+    "zh": "变动保证金",
+    "en_note": "The difference between current margin required and the current collateral price in a repurchase agreement.",
+    "zh_note": "根据市值变动需追加或返还的保证金。"
+  },
+  {
+    "word": "Cash markets",
+    "zh": "现货市场",
+    "en_note": "Markets in which specific assets are exchanged at current prices. Cash markets are often referred to as spot markets.",
+    "zh_note": "按当前价格立即交易具体资产的市场。"
+  },
+  {
+    "word": "Cash prices",
+    "zh": "现货价格",
+    "en_note": "The current prices prevailing in cash markets.",
+    "zh_note": "现货市场上的当前价格。"
+  },
+  {
+    "word": "Central clearing mandate",
+    "zh": "中央清算强制要求",
+    "en_note": "A requirement instituted by global regulatory authorities following the 2008 global financial crisis that most over-the-counter (OTC) derivatives be cleared by a central counterparty (CCP).",
+    "zh_note": "监管要求多数 OTC 衍生品通过中央对手方清算。"
+  },
+  {
+    "word": "Central counterparty (CCP)",
+    "zh": "中央对手方",
+    "en_note": "An economic entity that assumes the counterparty credit risk between derivative counterparties, one of which is typically a financial intermediary. CCPs provide clearing and settlement for most derivative contracts.",
+    "zh_note": "在衍生品双方之间承担对手方信用风险并提供清算结算服务的机构。"
+  },
+  {
+    "word": "Clearing",
+    "zh": "清算",
+    "en_note": "An exchange’s process of verifying the execution of a transaction, exchange of payments, and recording of participants.",
+    "zh_note": "交易所确认成交、交换付款并记录参与者的过程。"
+  },
+  {
+    "word": "Contingent claim",
+    "zh": "或有索取权",
+    "en_note": "A type of derivative in which one of the counterparties determines whether and when the trade will settle. An option is a common type of contingent claim.",
+    "zh_note": "由一方决定是否及何时结算的衍生品，如期权。"
+  },
+  {
+    "word": "Contract size",
+    "zh": "合约规模",
+    "en_note": "Amount(s) used for calculation to price and value the derivative. The contract size is often referred to as “notional amount or notional principal.”",
+    "zh_note": "用于定价和估值的金额，亦称名义本金。"
+  },
+  {
+    "word": "Counterparty",
+    "zh": "交易对手方",
+    "en_note": "Legal entities entering a derivative contract.",
+    "zh_note": "签订衍生品合约的法律实体。"
+  },
+  {
+    "word": "Counterparty credit risk",
+    "zh": "对手方信用风险",
+    "en_note": "The likelihood that a counterparty is unable to meet its financial obligations under the contract.",
+    "zh_note": "交易对手无法履行合约财务义务的可能性。"
+  },
+  {
+    "word": "Dealers",
+    "zh": "交易商",
+    "en_note": "Financial intermediaries, such as commercial banks or investment banks, who transact as counterparties with derivative end users.",
+    "zh_note": "与衍生品终端用户进行交易的金融中介。"
+  },
+  {
+    "word": "Derivative",
+    "zh": "衍生品",
+    "en_note": "A financial instrument that derives its value from the performance of an underlying asset or factor (e.g., stock price, interest rate, or exchange rate).",
+    "zh_note": "价值来源于标的资产或因素表现的金融工具。"
+  },
+  {
+    "word": "Derivative contract",
+    "zh": "衍生品合约",
+    "en_note": "A legal agreement between counterparties with a specific maturity, or length of time, until the closing of the transaction, or settlement.",
+    "zh_note": "约定到期日与结算方式的法律协议。"
+  },
+  {
+    "word": "Embedded derivative",
+    "zh": "嵌入式衍生工具",
+    "en_note": "A derivative within an underlying, such as a callable, putable, or convertible bond.",
+    "zh_note": "嵌入基础工具中的衍生品成分，如可转债中的转股权。"
+  },
+  {
+    "word": "Exchange-traded derivative (ETD)",
+    "zh": "交易所交易衍生品",
+    "en_note": "Futures, options, and other financial contracts available on exchanges.",
+    "zh_note": "在交易所上市交易的期货、期权等金融合约。"
+  },
+  {
+    "word": "Firm commitment",
+    "zh": "坚定承诺",
+    "en_note": "A pre-determined amount (price and quantity) is agreed to be exchanged at settlement. Examples of firm commitments include forward contracts, futures contracts, and swaps.",
+    "zh_note": "预先约定价格和数量，到结算时必须交换的合约。"
+  },
+  {
+    "word": "Forward contract",
+    "zh": "远期合约",
+    "en_note": "A derivative contract for the future exchange of an underlying at a fixed price set at contract signing.",
+    "zh_note": "约定未来以固定价格交换标的的衍生品合约。"
+  },
+  {
+    "word": "Hard commodities",
+    "zh": "硬商品",
+    "en_note": "Traded natural resources, such as crude oil and metals, with markets often involving the physical delivery of the underlying upon settlement.",
+    "zh_note": "如原油、金属等自然资源类商品。"
+  },
+  {
+    "word": "Hedge",
+    "zh": "套期工具",
+    "en_note": "The derivative contract used in hedging an exposure.",
+    "zh_note": "用于套期保值的衍生品合约。"
+  },
+  {
+    "word": "Hedging",
+    "zh": "套期保值",
+    "en_note": "The use of a derivative contract to offset or neutralize existing or anticipated exposure to an underlying.",
+    "zh_note": "使用衍生品对冲现有或预期风险敞口。"
+  },
+  {
+    "word": "Long",
+    "zh": "多头",
+    "en_note": "A trading position in a derivative contract that gains value as the price of the underlying moves higher.",
+    "zh_note": "标的价格上涨时价值增加的衍生品头寸。"
+  },
+  {
+    "word": "Market makers",
+    "zh": "做市商",
+    "en_note": "Over-the-counter (OTC) dealers who typically enter into offsetting bilateral transactions with one another to transfer risk to other parties.",
+    "zh_note": "通常通过相互对冲双边交易来转移风险的 OTC 交易商。"
+  },
+  {
+    "word": "Market reference rate (MRR)",
+    "zh": "市场参考利率",
+    "en_note": "The interest rate underlying used in interest rate swaps. These rates typically match those of loans or other short-term obligations. Survey-based Libor rates used as reference rates in the past have been replaced by rates based on a daily average of observed market transaction rates. For example, the Secured Overnight Financing Rate (SOFR) is an overnight cash borrowing rate collateralized by US Treasuries. Other MRRs include the euro short-term rate (€STR) and the Sterling Overnight Index Average (SONIA).",
+    "zh_note": "利率互换中的基础参考利率，如 SOFR、€STR、SONIA。"
+  },
+  {
+    "word": "Maturity",
+    "zh": "到期日",
+    "en_note": "The date of a fixed-income instrument’s final payment to investors.",
+    "zh_note": "固定收益工具向投资者进行最后付款的日期。"
+  },
+  {
+    "word": "Novation process",
+    "zh": "债务更新/替代流程",
+    "en_note": "A process that substitutes the initial swap execution facility (SEF) contract with identical trades facing the central counterparty (CCP). The CCP serves as counterparty for both financial intermediaries, eliminating bilateral counterparty credit risk and providing clearing and settlement services.",
+    "zh_note": "以面向 CCP 的相同交易替代原始合约，从而消除双边信用风险。"
+  },
+  {
+    "word": "Option",
+    "zh": "期权",
+    "en_note": "A primary example of a contingent claim. A derivative contract that provides the buyer the right, but not the obligation, to buy or sell an underlying.",
+    "zh_note": "赋予买方买卖标的权利而非义务的衍生品。"
+  },
+  {
+    "word": "Over-the-counter (OTC)",
+    "zh": "场外市场",
+    "en_note": "Refers to derivative markets in which derivative contracts are created and traded between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks.",
+    "zh_note": "由终端用户与交易商双边创建并交易衍生品的市场。"
+  },
+  {
+    "word": "Settlement",
+    "zh": "结算",
+    "en_note": "The closing date at which the counterparties of a derivative contract exchange payment for the underlying as required by the contract.",
+    "zh_note": "衍生品双方按合约要求交换付款或标的的终止日期。"
+  },
+  {
+    "word": "Short",
+    "zh": "空头",
+    "en_note": "A trading position in a derivative contract that gains value as the price of the underlying moves lower.",
+    "zh_note": "标的价格下跌时价值增加的衍生品头寸。"
+  },
+  {
+    "word": "Soft commodities",
+    "zh": "软商品",
+    "en_note": "Standardized agricultural products, such as cattle and corn, with markets often involving the physical delivery of the underlying upon settlement.",
+    "zh_note": "如牲畜、玉米等农业类标准化商品。"
+  },
+  {
+    "word": "Spot markets",
+    "zh": "现货市场",
+    "en_note": "Markets in which specific assets are exchanged at current prices. Spot markets are often referred to as cash markets.",
+    "zh_note": "按当前价格交易资产的市场。"
+  },
+  {
+    "word": "Spot prices",
+    "zh": "现货价格",
+    "en_note": "The current prices prevailing in spot markets.",
+    "zh_note": "现货市场上的即期价格。"
+  },
+  {
+    "word": "Swap",
+    "zh": "互换",
+    "en_note": "A firm commitment involving a periodic exchange of cash flows.",
+    "zh_note": "按约定定期交换现金流的坚定承诺类合约。"
+  },
+  {
+    "word": "Swap execution facility (SEF)",
+    "zh": "互换执行平台",
+    "en_note": "A swap trading platform accessed by multiple dealers.",
+    "zh_note": "供多个交易商接入的互换交易平台。"
+  },
+  {
+    "word": "Underlying",
+    "zh": "标的资产",
+    "en_note": "The asset referred to in a derivative contract.",
+    "zh_note": "衍生品合约所引用的资产或变量。"
+  },
+  {
+    "word": "Add-on pricing",
+    "zh": "附加收费定价",
+    "en_note": "A pricing approach based on high-margin optional features, customizations, and additional content.",
+    "zh_note": "基础产品外对高利润可选功能、定制和附加内容收费。"
+  },
+  {
+    "word": "Auction/reverse auction models",
+    "zh": "拍卖/反向拍卖模式",
+    "en_note": "Pricing models that establish prices through bidding (by sellers in the case of reverse auctions).",
+    "zh_note": "通过竞价形成价格；反向拍卖中由卖方竞争报价。"
+  },
+  {
+    "word": "Bundling",
+    "zh": "捆绑定价",
+    "en_note": "A pricing approach that refers to combining multiple products or services so that customers are incentivized or required to buy them together.",
+    "zh_note": "将多个产品或服务组合销售以促使客户一起购买。"
+  },
+  {
+    "word": "Business model",
+    "zh": "商业模式",
+    "en_note": "A concise description of how a business works and makes revenues and profits, including its customers, products or services, channels for reaching customers, and pricing.",
+    "zh_note": "企业如何运作并创造收入和利润的简要描述。"
+  },
+  {
+    "word": "Channels",
+    "zh": "渠道",
+    "en_note": "Venues where a company markets and/or delivers its products and services.",
+    "zh_note": "企业营销和/或交付产品服务的场所或路径。"
+  },
+  {
+    "word": "Commodity producers",
+    "zh": "大宗商品生产商",
+    "en_note": "A firm that makes and/or sells commodities.",
+    "zh_note": "生产和/或销售大宗商品的企业。"
+  },
+  {
+    "word": "Contract manufacturers",
+    "zh": "合同制造商",
+    "en_note": "Companies that make products for other companies that meet specific terms and specifications.",
+    "zh_note": "按其他公司要求和规格代工生产产品的企业。"
+  },
+  {
+    "word": "Crowdsourcing",
+    "zh": "众包",
+    "en_note": "A business model that enables users to contribute directly to a product, service, or online content.",
+    "zh_note": "让用户直接参与产品、服务或内容贡献的商业模式。"
+  },
+  {
+    "word": "Differentiated products",
+    "zh": "差异化产品",
+    "en_note": "A product or service from a firm that is distinguishable or distinct from those of competing firms. It is customers who determine and value whether a product is differentiated.",
+    "zh_note": "可被客户识别并认为区别于竞争对手的产品或服务。"
+  },
+  {
+    "word": "Direct sales",
+    "zh": "直销",
+    "en_note": "Marketing and/or delivering products and services to customers without an intermediary or third party between the customer and seller.",
+    "zh_note": "不通过中间商直接向客户营销或交付产品服务。"
+  },
+  {
+    "word": "Dynamic pricing",
+    "zh": "动态定价",
+    "en_note": "A pricing approach that charges different prices at different times. Specific examples include off-peak pricing, “surge” pricing, and “congestion” pricing.",
+    "zh_note": "在不同时间收取不同价格的定价方式。"
+  },
+  {
+    "word": "Franchising",
+    "zh": "特许经营",
+    "en_note": "A situation where an owner of an asset and associated intellectual property divests the asset and licenses intellectual property to a third-party operator (franchisee) in exchange for royalties. Franchisees operate under the constraints of a franchise agreement.",
+    "zh_note": "资产所有者授权他人运营并收取特许权使用费的模式。"
+  },
+  {
+    "word": "Freemium business model",
+    "zh": "免费增值模式",
+    "en_note": "A pricing approach that allows customers a certain level of usage or functionality at no charge. Those who wish to use more must pay.",
+    "zh_note": "基础使用免费，更多功能或额度需付费。"
+  },
+  {
+    "word": "Hidden revenue business model",
+    "zh": "隐性收入模式",
+    "en_note": "Business models that provide services to users at no charge and generate revenues elsewhere.",
+    "zh_note": "对用户免费提供服务，但在其他环节实现收入。"
+  },
+  {
+    "word": "Licensing arrangements",
+    "zh": "许可安排",
+    "en_note": "Rights to produce a product or have access to intangible assets using someone else’s brand name in return for a royalty (often a percentage of revenues).",
+    "zh_note": "付费获得生产产品或使用品牌/无形资产权利的安排。"
+  },
+  {
+    "word": "Network effects",
+    "zh": "网络效应",
+    "en_note": "A business model that enables users to contribute directly to a product, service, or online content.",
+    "zh_note": "用户越多，产品或服务对每个用户的价值越高。"
+  },
+  {
+    "word": "Omnichannel",
+    "zh": "全渠道",
+    "en_note": "Refers to a company selling its products or services in multiple channels, such as in store and online.",
+    "zh_note": "企业通过门店、线上等多个渠道销售产品或服务。"
+  },
+  {
+    "word": "Penetration pricing",
+    "zh": "渗透定价",
+    "en_note": "A discount pricing approach used when a firm willingly sacrifices margins in order to build scale and market share.",
+    "zh_note": "以牺牲利润率换取规模和市场份额的低价策略。"
+  },
+  {
+    "word": "Price discrimination",
+    "zh": "价格歧视",
+    "en_note": "A pricing approach that charges different prices to different customers based on their willingness to pay.",
+    "zh_note": "根据不同客户支付意愿收取不同价格。"
+  },
+  {
+    "word": "Pricing power",
+    "zh": "定价能力",
+    "en_note": "A company’s ability to set prices and other economic terms with customers without affecting its sales volumes.",
+    "zh_note": "企业在不明显影响销量时提高价格或调整交易条件的能力。"
+  },
+  {
+    "word": "Razor, razorblade pricing",
+    "zh": "剃刀-刀片定价",
+    "en_note": "A pricing approach that combines a low price on a piece of equipment and high-margin pricing on repeat-purchase consumables.",
+    "zh_note": "设备低价销售、耗材高毛利反复销售的模式。"
+  },
+  {
+    "word": "Segmenting",
+    "zh": "客户细分",
+    "en_note": "A process of identifying and grouping customers by decision-useful attributes.",
+    "zh_note": "按有助于决策的属性对客户进行识别和分组。"
+  },
+  {
+    "word": "Supply chain",
+    "zh": "供应链",
+    "en_note": "The sequence of processes involved in the creation and delivery of a physical product to the end customer, both within and external to a firm, regardless of whether those steps are performed by a single firm.",
+    "zh_note": "产品从生产到交付终端客户所经历的一系列流程。"
+  },
+  {
+    "word": "Tiered pricing",
+    "zh": "分层定价",
+    "en_note": "A pricing approach that charges different prices to different buyers, commonly based on volume purchased.",
+    "zh_note": "按购买量或等级向不同买家收取不同价格。"
+  },
+  {
+    "word": "Unit economics",
+    "zh": "单位经济模型",
+    "en_note": "The expression of revenues and costs on a per-unit basis.",
+    "zh_note": "按单个单位衡量收入与成本。"
+  },
+  {
+    "word": "Value added resellers",
+    "zh": "增值经销商",
+    "en_note": "Businesses that distribute a product and also handle more complex aspects of product installation, customization, service, or support.",
+    "zh_note": "除分销外还提供安装、定制、服务或支持的渠道商。"
+  },
+  {
+    "word": "Value-based pricing",
+    "zh": "价值定价",
+    "en_note": "Pricing set primarily by reference to the value of the product or service to customers.",
+    "zh_note": "主要依据客户感知价值来设定价格。"
+  },
+  {
+    "word": "Value chain",
+    "zh": "价值链",
+    "en_note": "The systems and processes in a firm that create value for its customers.",
+    "zh_note": "企业内部创造客户价值的一系列系统和流程。"
+  },
+  {
+    "word": "Value proposition",
+    "zh": "价值主张",
+    "en_note": "The product or service attributes valued by a firm’s target customer that lead those customers to prefer that firm’s offering.",
+    "zh_note": "目标客户看重并促使其选择该企业产品的属性组合。"
+  },
+  {
+    "word": "Asymmetric information",
+    "zh": "信息不对称",
+    "en_note": "Also known as information asymmetry; the differential of information between corporate insiders and outsiders regarding the company’s performance and prospects. Managers typically have more information about the company’s performance and prospects than owners and creditors.",
+    "zh_note": "公司内部人与外部人在业绩和前景信息上的差异。"
+  },
+  {
+    "word": "Capital-intensive businesses",
+    "zh": "资本密集型业务",
+    "en_note": "Companies or business activities that are characterized by a relatively low fixed asset turnover, a high percentage of capital expenditures to sales, or a high net-working-capital-to-sales ratio.",
+    "zh_note": "固定资产周转低、资本开支占比高或营运资本占比高的业务。"
+  },
+  {
+    "word": "Capital-light businesses",
+    "zh": "轻资本业务",
+    "en_note": "Also known as asset light businesses, companies or business activities characterized by relatively high fixed asset turnover, a low percentage of capital expenditures to sales, or a low net-working-capital-to-sales ratio.",
+    "zh_note": "固定资产周转高、资本开支占比低或营运资本占比低的业务。"
+  },
+  {
+    "word": "Capital structure",
+    "zh": "资本结构",
+    "en_note": "The mix of debt and equity that a company uses to finance its business; a company’s specific mix of long-term financing.",
+    "zh_note": "企业用于融资的债务与权益组合。"
+  },
+  {
+    "word": "Convertible debt",
+    "zh": "可转换债务",
+    "en_note": "A fixed-income instrument which combines the features of debt with equity via a contingent feature, allowing debtholders to exchange their claim for common shares at a predetermined fixed price in the future.",
+    "zh_note": "可按预定价格转换为普通股的债务工具。"
+  },
+  {
+    "word": "Cost of capital",
+    "zh": "资本成本",
+    "en_note": "The cost of financing for a company; the rate of return that suppliers of capital require as compensation for their contribution of capital (also called opportunity cost of funds).",
+    "zh_note": "资本提供者要求的回报率，即企业融资成本。"
+  },
+  {
+    "word": "Cost of debt",
+    "zh": "债务成本",
+    "en_note": "The required return on debt financing for a company, such as when it issues a bond, takes out a bank loan, or leases an asset through a finance lease.",
+    "zh_note": "企业通过借款、发债或融资租赁获得债务融资的必要回报率。"
+  },
+  {
+    "word": "Cost of equity",
+    "zh": "股权成本",
+    "en_note": "The return required by equity investors to compensate for both the time value of money and the risk. Also referred to as the required rate of return on common stock or the required return on equity.",
+    "zh_note": "股东因时间价值和风险而要求的回报率。"
+  },
+  {
+    "word": "Debt tax shield",
+    "zh": "债务税盾",
+    "en_note": "The tax benefit from interest paid on debt being tax deductible from income, equal to the marginal tax rate multiplied by the value of the debt.",
+    "zh_note": "利息可税前扣除带来的税收收益。"
+  },
+  {
+    "word": "Free cash flow hypothesis",
+    "zh": "自由现金流假说",
+    "en_note": "The hypothesis that higher debt levels discipline managers by forcing them to make fixed debt service payments and by reducing the company’s free cash flow.",
+    "zh_note": "较高债务通过固定偿债压力约束管理层并减少可支配现金流。"
+  },
+  {
+    "word": "Operating leverage",
+    "zh": "经营杠杆",
+    "en_note": "The sensitivity of a firm’s operating profit to a change in revenues, determined by the composition of fixed and variable operating costs.",
+    "zh_note": "营业利润对收入变化的敏感度，取决于固定与变动成本结构。"
+  },
+  {
+    "word": "Optimal capital structure",
+    "zh": "最优资本结构",
+    "en_note": "The capital structure at which the value of the company is maximized.",
+    "zh_note": "使公司价值最大的资本结构。"
+  },
+  {
+    "word": "Pecking order theory",
+    "zh": "融资优序理论",
+    "en_note": "The theory that managers consider how their actions might be interpreted by outsiders and thereby order their preferences for various forms of corporate financing. Forms of financing that are least visible to outsiders (e.g., internally generated funds) are most preferable to managers, and those that are most visible (e.g., equity issuance) are least preferable.",
+    "zh_note": "管理层偏好对外界最不透明的融资方式，内部资金优先、股权最末。"
+  },
+  {
+    "word": "Static trade-off theory of capital structure",
+    "zh": "资本结构静态权衡理论",
+    "en_note": "A theory pertaining to a company’s optimal capital structure; the optimal level of debt is found at the point where additional debt would cause the costs of financial distress to increase by a greater amount than the benefit of the additional tax shield.",
+    "zh_note": "最优负债在税盾收益与财务困境成本权衡处确定。"
+  },
+  {
+    "word": "Target capital structure",
+    "zh": "目标资本结构",
+    "en_note": "Management’s desired proportions of debt and equity financing, usually stated on a book value basis or indirectly using a financial leverage metric, such as net or gross debt to EBITDA or credit rating.",
+    "zh_note": "管理层希望维持的债务与权益融资比例。"
+  },
+  {
+    "word": "Weighted-average cost of capital (WACC)",
+    "zh": "加权平均资本成本",
+    "en_note": "A weighted average of the after-tax required rates of return on a company’s equity, debt, preferred stock, and other long-term financing sources, where the weights are the fraction of each source of financing in the company’s current market value or management’s target capital structure.",
+    "zh_note": "各类长期融资来源税后必要回报率的加权平均。"
+  },
+  {
+    "word": "Abandonment option",
+    "zh": "放弃期权",
+    "en_note": "The option to terminate an investment at some future time if the financial results are disappointing.",
+    "zh_note": "当项目结果不佳时未来终止投资的选择权。"
+  },
+  {
+    "word": "Amortization",
+    "zh": "摊销",
+    "en_note": "The process of allocating the cost of intangible long-term assets having a finite useful life to accounting periods; the allocation of the amount of a bond premium or discount to the periods remaining until bond maturity.",
+    "zh_note": "将有限寿命无形资产成本或债券溢折价分配到各期。"
+  },
+  {
+    "word": "Capital allocation",
+    "zh": "资本配置",
+    "en_note": "The process that companies use for decision making on capital investments—those projects with a life of one year or longer.",
+    "zh_note": "企业对一年以上资本投资项目进行决策的过程。"
+  },
+  {
+    "word": "Capital investments",
+    "zh": "资本投资",
+    "en_note": "An expenditure for an asset or resource with a useful life of more than one year.",
+    "zh_note": "用于寿命超过一年的资产或资源的支出。"
+  },
+  {
+    "word": "Growth option",
+    "zh": "增长期权",
+    "en_note": "The option to make additional investments in a project at some future time if the financial results are strong. Also called an expansion option.",
+    "zh_note": "项目表现良好时未来追加投资的选择权。"
+  },
+  {
+    "word": "Internal rate of return (IRR)",
+    "zh": "内部收益率",
+    "en_note": "The uniform discount rate for a series of cash flows over n periods that returns a net present value of zero.",
+    "zh_note": "使项目净现值等于零的折现率。"
+  },
+  {
+    "word": "Maintenance capital expenditures",
+    "zh": "维护性资本支出",
+    "en_note": "Investments in assets to keep them in operation or increase their efficiency without extending their useful lives.",
+    "zh_note": "用于维持资产运作或提高效率但不延长寿命的投资。"
+  },
+  {
+    "word": "Match funding",
+    "zh": "匹配融资",
+    "en_note": "Financing an asset with a source, such as a loan or bond, that is aligned with certain attributes of the asset, such as duration and the respective streams of income and financing costs.",
+    "zh_note": "使融资来源与资产期限及现金流特征相匹配。"
+  },
+  {
+    "word": "Net present value (NPV)",
+    "zh": "净现值",
+    "en_note": "The present value of an investment’s cash inflows (benefits) minus the present value of its cash outflows (costs).",
+    "zh_note": "投资现金流入现值减去现金流出现值。"
+  },
+  {
+    "word": "Pet projects",
+    "zh": "宠儿项目",
+    "en_note": "A capital investment that is pursued by management but is not economically justifiable by a disinterested party. Motivations for pet projects include self-dealing and vanity.",
+    "zh_note": "管理层偏好但缺乏独立经济合理性的资本项目。"
+  },
+  {
+    "word": "Price-setting option",
+    "zh": "定价调整期权",
+    "en_note": "The option to adjust prices when demand or supply varies from what is forecast.",
+    "zh_note": "当供需偏离预测时调整价格的选择权。"
+  },
+  {
+    "word": "Production flexibility option",
+    "zh": "生产灵活性期权",
+    "en_note": "The option to alter production when demand varies from what is forecast.",
+    "zh_note": "当需求偏离预测时调整产量或生产方式的选择权。"
+  },
+  {
+    "word": "Real option",
+    "zh": "实物期权",
+    "en_note": "A right, but not an obligation, for management to make a decision with respect to a capital investment that alters future cash flows from the original forecasted scenario.",
+    "zh_note": "管理层可改变原始投资现金流路径的决策权。"
+  },
+  {
+    "word": "Return on invested capital (ROIC)",
+    "zh": "投入资本回报率",
+    "en_note": "A measure of the profitability of a company relative to the amount of capital invested by the equityholders and debtholders.",
+    "zh_note": "相对于股东和债权人投入资本衡量企业盈利能力的指标。"
+  },
+  {
+    "word": "Sunk costs",
+    "zh": "沉没成本",
+    "en_note": "A cost that has already been incurred.",
+    "zh_note": "已经发生、无法收回的成本。"
+  },
+  {
+    "word": "Ad hoc committee",
+    "zh": "特别委员会",
+    "en_note": "A small group of lenders or bondholders who negotiate with an issuer on debt restructuring and refinancing before the issuer submits a final proposal to the wider group of all lenders and bondholders.",
+    "zh_note": "在债务重组前代表部分债权人与发行人谈判的小组。"
+  },
+  {
+    "word": "Agency costs",
+    "zh": "代理成本",
+    "en_note": "Direct and indirect costs borne by the principal in a principal-agent relationship owing primarily to information asymmetries. Agency costs include the costs of monitoring and assessing the agent as well as missed opportunities.",
+    "zh_note": "因信息不对称等导致委托人承担的监督成本和机会损失。"
+  },
+  {
+    "word": "Annual general meeting (AGM)",
+    "zh": "年度股东大会",
+    "en_note": "A yearly meeting of the corporate board of directors and shareholders, typically held in person and digitally, during which votes on directors, compensation plans, shareholder resolutions, and any other matters properly brought forward at the meeting are held. Issuer management may also make presentations and hold events.",
+    "zh_note": "董事会与股东每年举行并就董事、薪酬等事项表决的会议。"
+  },
+  {
+    "word": "Bond indenture",
+    "zh": "债券契约",
+    "en_note": "A legal document between a bond issuer and investors that governs each party’s rights and responsibilities.",
+    "zh_note": "规范债券发行人与投资者权利义务的法律文件。"
+  },
+  {
+    "word": "Controlling shareholder",
+    "zh": "控股股东",
+    "en_note": "An individual or entity that owns a majority of the voting rights in a corporation.",
+    "zh_note": "拥有公司多数表决权的个人或实体。"
+  },
+  {
+    "word": "Dual-class structure",
+    "zh": "双层股权结构",
+    "en_note": "A capital structure that includes at least two classes of equity shares with unequal voting rights.",
+    "zh_note": "至少两类表决权不相等的股权结构。"
+  },
+  {
+    "word": "Employee stock ownership plan (ESOP)",
+    "zh": "员工持股计划",
+    "en_note": "A type of employee benefit plan in which a company sets up a trust fund to receive contributions of newly issued shares or cash to buy existing shares. Contributions are tax deductible up to certain limits. Shares in the trust fund are allocated to individual employees based on relative pay or a formula.",
+    "zh_note": "公司通过信托安排让员工持有公司股份的福利计划。"
+  },
+  {
+    "word": "Extraordinary general meetings (EGMs)",
+    "zh": "临时股东大会",
+    "en_note": "Meetings besides an AGM of the corporate board and shareholders, typically held to deliberate and vote on urgent matters. Corporate charters and bylaws specify who can call an EGM and under what conditions.",
+    "zh_note": "除年度股东大会外就紧急事项召开并表决的会议。"
+  },
+  {
+    "word": "Hostile takeover",
+    "zh": "敌意收购",
+    "en_note": "When a potential acquirer seeks to acquire a company (the target) against the wishes of the target’s board of directors. Typically, a tender offer is used to carry out the hostile takeover, against which a board might use a poison pill in its defense.",
+    "zh_note": "收购方违背目标公司董事会意愿发起的收购。"
+  },
+  {
+    "word": "Minority shareholder",
+    "zh": "少数股东",
+    "en_note": "An individual or entity that owns less than a majority of the voting rights in a corporation.",
+    "zh_note": "持有少于多数表决权的股东。"
+  },
+  {
+    "word": "Poison pill",
+    "zh": "毒丸计划",
+    "en_note": "Officially known as a shareholder rights plan, a poison pill is a hostile-takeover defense adopted by boards of directors according to rules specified in the corporate charter. There are several types of poison pills. Generally, they allow shareholders, excluding the shareholder making the hostile bid and their affiliates, to buy newly issued shares at a discounted price. The share issuance would dilute the bidder’s ownership percentage, rendering it impossible for the bidder to attain control.",
+    "zh_note": "通过稀释敌意收购方持股来阻止其取得控制权的防御措施。"
+  },
+  {
+    "word": "Principal-agent relationship",
+    "zh": "委托—代理关系",
+    "en_note": "An arrangement in which one party (the agent) has authority to act for or on behalf of another party (the principal). Such an arrangement imposes a duty on the agent to act in the principal’s best interest.",
+    "zh_note": "代理人被授权代表委托人行事并应符合其最佳利益。"
+  },
+  {
+    "word": "Proxy contest",
+    "zh": "委托书争夺战",
+    "en_note": "When a shareholder or group of shareholders campaigns for certain matters they have submitted to a shareholder vote, often a slate of directors who oppose the incumbent board and management. The incumbent board and management simultaneously campaign for their side.",
+    "zh_note": "股东与现任管理层围绕表决事项或董事席位争取代理票。"
+  },
+  {
+    "word": "Proxy voting",
+    "zh": "委托投票",
+    "en_note": "A form of casting a ballot in an election in which a voter authorizes a representative to vote on their behalf according to instructions. In corporate elections, proxy ballots are cast by shareholders that direct a representative, typically the corporate secretary, to enter their votes as instructed.",
+    "zh_note": "股东授权代表按指示代为投票。"
+  },
+  {
+    "word": "Share class",
+    "zh": "股份类别",
+    "en_note": "Types of equity securities that have different voting rights—for example, an issuer may issue Class A shares that carry one vote per share and Class B shares that carry ten votes per share.",
+    "zh_note": "具有不同表决权等权利安排的股权类别。"
+  },
+  {
+    "word": "Shareholder activism",
+    "zh": "股东行动主义",
+    "en_note": "A range of actions by a corporation’s shareholders that are intended to result in some change in the corporation, typically a change in the board of directors, management, or business strategy.",
+    "zh_note": "股东为推动董事会、管理层或战略变动而采取的一系列行动。"
+  },
+  {
+    "word": "Shareholder derivative lawsuit",
+    "zh": "股东派生诉讼",
+    "en_note": "A legal action by a shareholder on behalf of a company, not the shareholder personally, against a third party. Often, the third party is a director or manager who the shareholder believes has harmed the company.",
+    "zh_note": "股东代表公司而非个人对第三方提起的诉讼。"
+  },
+  {
+    "word": "Tender offer",
+    "zh": "要约收购",
+    "en_note": "A solicitation by a current or prospective shareholder to other shareholders to acquire a substantial percentage, including 100%, of shares at a specified price. This action is usually undertaken by a potential acquirer whose bid was rejected by the issuer’s board of directors, prompting the potential acquirer to appeal directly to shareholders.",
+    "zh_note": "收购方向其他股东按指定价格征集股份的行为。"
+  },
+  {
+    "word": "Cash conversion cycle",
+    "zh": "现金转换周期",
+    "en_note": "The amount of time between an issuer paying its suppliers in cash and receiving cash from its customers.",
+    "zh_note": "企业支付供应商现金到从客户收到现金之间的时间。"
+  },
+  {
+    "word": "Cash flow from operations",
+    "zh": "经营活动现金流",
+    "en_note": "A cash profit measure over a period for an issuer’s primary business activities. It includes cash from customers as well as interest and dividends received from financial investments, less cash paid to employees and suppliers as well as taxes paid to governments and interest paid to lenders.",
+    "zh_note": "企业核心经营活动在一定时期产生的现金利润指标。"
+  },
+  {
+    "word": "Cash ratio",
+    "zh": "现金比率",
+    "en_note": "A measure of liquidity that is the ratio of cash and marketable securities to current liabilities.",
+    "zh_note": "现金与有价证券除以流动负债的流动性指标。"
+  },
+  {
+    "word": "Current ratio",
+    "zh": "流动比率",
+    "en_note": "A measure of liquidity that is the ratio of current assets to current liabilities.",
+    "zh_note": "流动资产除以流动负债。"
+  },
+  {
+    "word": "Days of inventory on hand (DOH)",
+    "zh": "存货周转天数",
+    "en_note": "The average number of days it would take to sell the amount of inventory on hand. It is calculated as either the ending or average balance of inventories divided by (cost of goods sold/days in the period).",
+    "zh_note": "现有存货按当前销售/成本水平可维持的平均天数。"
+  },
+  {
+    "word": "Days payable outstanding (DPO)",
+    "zh": "应付账款周转天数",
+    "en_note": "The average number of days it takes a company to pay its suppliers. It is calculated as either the ending or average balance of accounts payable divided by (cost of goods sold/days in the period).",
+    "zh_note": "企业平均需要多少天向供应商付款。"
+  },
+  {
+    "word": "Days sales outstanding (DSO)",
+    "zh": "应收账款周转天数",
+    "en_note": "The average number of days it takes for a company to receive payment from customers who purchase goods or services on credit. It is calculated as either the ending or average balance of accounts receivable divided by (revenues/days in the period).",
+    "zh_note": "企业平均需要多少天从赊销客户收回货款。"
+  },
+  {
+    "word": "Drag on liquidity",
+    "zh": "流动性拖累",
+    "en_note": "An action or event that reduces available funds or delays cash inflows.",
+    "zh_note": "减少可用资金或延迟现金流入的行为或事件。"
+  },
+  {
+    "word": "Free cash flow",
+    "zh": "自由现金流",
+    "en_note": "The actual cash that would be available to the company’s investors after making all investments necessary to maintain the company as an ongoing enterprise (also referred to as free cash flow to the firm); the internally generated funds that can be distributed to the company’s investors (e.g., shareholders and bondholders) without impairing the value of the company.",
+    "zh_note": "维持企业持续经营所需投资后可分配给资本提供者的现金。"
+  },
+  {
+    "word": "Net working capital",
+    "zh": "净营运资本",
+    "en_note": "Working capital excluding short-term items unrelated to business operations, such as cash, marketable securities, and short-term debt.",
+    "zh_note": "剔除现金、有价证券和短债等非经营短期项目后的营运资本。"
+  },
+  {
+    "word": "Operating cycle",
+    "zh": "经营周期",
+    "en_note": "The length of time between a company’s acquisition of goods or raw materials and the collection of cash from sales to customers.",
+    "zh_note": "企业购入原材料到销售回款的时间长度。"
+  },
+  {
+    "word": "Pull on liquidity",
+    "zh": "流动性抽离",
+    "en_note": "An action or event that accelerates cash outflows.",
+    "zh_note": "加速现金流出的行为或事件。"
+  },
+  {
+    "word": "Quick ratio",
+    "zh": "速动比率",
+    "en_note": "A measure of liquidity that is the ratio of cash, marketable securities, and receivables to current liabilities.",
+    "zh_note": "现金、有价证券和应收款除以流动负债。"
+  },
+  {
+    "word": "Statement of cash flows",
+    "zh": "现金流量表",
+    "en_note": "A financial statement that details the movement of cash over a period. The statement is classified into operating, investing, and financing activities.",
+    "zh_note": "反映一定时期现金流动并分为经营、投资、融资活动的报表。"
+  },
+  {
+    "word": "Total working capital",
+    "zh": "总营运资本",
+    "en_note": "The difference between current assets and current liabilities.",
+    "zh_note": "流动资产减流动负债。"
   }
 ];
